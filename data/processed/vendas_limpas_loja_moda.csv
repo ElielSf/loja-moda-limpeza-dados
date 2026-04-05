@@ -1,0 +1,501 @@
+﻿id_venda,data_venda,produto,quantidade,preco_unitario,forma_pagamento,nome_cliente,cpf_cliente,vendedor,valor_total,mes,mes_nome,dia_semana
+438,2023-07-18,Jaqueta Couro M,2,274.91,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Ana Lima,549.82,7,July,Tuesday
+326,2023-02-19,Calça Jeans 42,1,112.84,Cartão de Débito,Eliandro Mesquita,529.912.419-04,Carlos Souza,112.84,2,February,Sunday
+131,2023-07-29,Calça Jeans 42,2,128.8,Cartão de Débito,Amanda Cavalcante,754.330.365-41,Roberto Dias,257.6,7,July,Saturday
+24,2023-09-04,Boné Aba Curva,4,41.63,Cartão de Débito,Rodrigo Figueiredo,563.421.607-33,Roberto Dias,166.52,9,September,Monday
+445,2023-07-20,Calça Jeans 42,1,119.55,Pix,Natalia Brito,615.951.484-65,Carlos Souza,119.55,7,July,Thursday
+251,2023-08-11,Vestido Floral P,1,81.39,Cartão de Débito,Amanda Cavalcante,754.330.365-41,Fernanda Costa,81.39,8,August,Friday
+53,2023-11-18,Tênis Casual 38,2,147.17,Cartão de Crédito,Eduardo Pinto,473.829.973-76,Fernanda Costa,294.34,11,November,Saturday
+9,2023-09-05,Blusa de Frio G,1,99.83,Cartão de Crédito,Daniel Vieira,808.412.411-82,Ana Lima,99.83,9,September,Tuesday
+354,2023-06-16,Sandália Rasteira 36,1,68.25,Cartão de Crédito,Dilma Couto,379.965.075-27,Carlos Souza,68.25,6,June,Friday
+309,2023-02-07,Vestido Floral P,4,88.48,Cartão de Crédito,Juliana Rocha,413.953.767-24,Ana Lima,353.92,2,February,Tuesday
+311,2023-03-28,Camiseta Básica M,1,43.76,Cartão de Débito,Cristina Duarte,401.965.569-81,Fernanda Costa,43.76,3,March,Tuesday
+193,2023-11-18,Jaqueta Couro M,2,264.07,Cartão de Crédito,Jair Andrade,877.694.531-47,Fernanda Costa,528.14,11,November,Saturday
+247,2023-03-25,Meia Kit C/ 3,1,24.01,Cartão de Crédito,Paulo Correia,164.005.242-78,Carlos Souza,24.01,3,March,Saturday
+99,2023-08-19,Jaqueta Couro M,1,278.54,Cartão de Débito,Edmundo Avelar,518.233.749-89,Fernanda Costa,278.54,8,August,Saturday
+41,2023-04-25,Meia Kit C/3,1,23.3,Pix,Felipe Ribeiro,148.932.528-80,Não identificado,23.3,4,April,Tuesday
+279,2023-03-02,Blusa de Frio G,1,99.9,Pix,Ana Oliveira,637.940.265-42,Não identificado,99.9,3,March,Thursday
+236,2023-07-22,Boné Aba Curva,2,34.87,Cartão de Débito,Lucia Ferreira,781.618.495-93,Roberto Dias,69.74,7,July,Saturday
+269,2023-12-09,Blusa de Frio G,2,97.79,Pix,Eduardo Pinto,473.829.973-76,Fernanda Costa,195.58,12,December,Saturday
+361,2023-09-26,Sandália Rasteira 36,2,46.07,Dinheiro,Jairo Cavalcante,436.349.578-85,Carlos Souza,92.14,9,September,Tuesday
+195,2023-12-24,Blusa de Frio G,2,95.92,Cartão de Débito,Renata Monteiro,669.784.801-84,Carlos Souza,191.84,12,December,Sunday
+443,2023-06-20,Meia Kit C/ 3,4,23.48,Cartão de Crédito,Marcos Teixeira,098.050.097-88,Ana Lima,93.92,6,June,Tuesday
+130,2023-11-17,Sandália Rasteira 36,1,64.74,Pix,Everaldo Medeiros,466.889.373-46,Fernanda Costa,64.74,11,November,Friday
+494,2023-07-02,Blusa de Frio G,3,92.65,Cartão de Crédito,Josenildo Cruz,719.022.941-31,Roberto Dias,277.95000000000005,7,July,Sunday
+129,2023-10-23,Sandália Rasteira 36,1,63.26,Pix,Alexandre Pires,693.406.088-35,Não identificado,63.26,10,October,Monday
+411,2023-04-05,Meia Kit C/3,1,24.060000000000002,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Ana Lima,24.060000000000002,4,April,Wednesday
+139,2023-03-28,Jaqueta Couro M,3,293.41,Cartão de Crédito,Mauricio Sampaio,773.872.148-95,Não identificado,880.23,3,March,Tuesday
+285,2023-09-18,Jaqueta Couro M,1,291.27,Dinheiro,Vanessa Moreira,473.178.108-01,Não identificado,291.27,9,September,Monday
+233,2023-02-16,Sandália Rasteira 36,1,61.29,Pix,Miriam Deus,685.574.443-13,Roberto Dias,61.29,2,February,Thursday
+338,2023-10-14,Boné Aba Curva,2,51.69,Pix,Josenildo Cruz,719.022.941-31,Ana Lima,103.38,10,October,Saturday
+470,2023-02-04,Camiseta Básica M,2,42.75,Pix,Robson Salles,148.932.528-80,Ana Lima,85.5,2,February,Saturday
+465,2023-09-11,Jaqueta Couro M,2,298.96,Dinheiro,Robson Salles,362.316.658-76,Ana Lima,597.92,9,September,Monday
+362,2023-01-06,Camiseta Básica M,1,46.78,Pix,Osmar Pinheiro,354.549.480-83,Roberto Dias,46.78,1,January,Friday
+225,2023-04-24,Sandália Rasteira 36,1,45.6,Cartão de Débito,Waldemar Faustino,400.842.710-94,Ana Lima,45.6,4,April,Monday
+308,2023-04-05,Vestido Floral P,2,91.72,Pix,Hilton Bessa,740.344.713-49,Roberto Dias,183.44,4,April,Wednesday
+138,2023-06-18,Vestido Floral P,3,90.14,Pix,Denise Rezende,163.287.083-17,Roberto Dias,270.42,6,June,Sunday
+64,2023-08-18,Vestido Floral P,3,88.61,Pix,Jairo Cavalcante,436.349.578-85,Roberto Dias,265.83,8,August,Friday
+403,2023-05-07,Boné Aba Curva,1,45.96,Dinheiro,Neuza Lago,136.783.777-01,Carlos Souza,45.96,5,May,Sunday
+215,2023-08-03,Calça Jeans 42,1,128.95,Pix,Neuza Lago,136.783.777-01,Não identificado,128.95,8,August,Thursday
+167,2023-08-19,Short Jeans 40,2,68.91,Cartão de Crédito,Everaldo Medeiros,466.889.373-46,Não identificado,137.82,8,August,Saturday
+238,2023-02-04,Camiseta Básica M,1,42.54,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Não identificado,42.54,2,February,Saturday
+417,2023-07-21,Blusa de Frio G,2,94.0,Dinheiro,Alexandre Pires,693.406.088-35,Fernanda Costa,188.0,7,July,Friday
+347,2023-08-23,Camiseta Básica M,1,45.66,Pix,Osmar Pinheiro,354.549.480-83,Fernanda Costa,45.66,8,August,Wednesday
+334,2023-03-16,Blusa de Frio G,1,99.9,Cartão de Crédito,Deusdete Matos,964.990.913-34,Roberto Dias,99.9,3,March,Thursday
+400,2023-10-26,Boné Aba Curva,1,36.08,Pix,Neuza Lago,651.333.872-62,Ana Lima,36.08,10,October,Thursday
+320,2023-04-01,Short Jeans 40,1,70.43,Pix,Lucas Freitas,713.315.098-39,Ana Lima,70.43,4,April,Saturday
+110,2023-11-23,Vestido Floral P,2,93.76,Cartão de Crédito,Fernanda Lima,255.341.928-32,Roberto Dias,187.52,11,November,Thursday
+221,2023-04-01,Boné Aba Curva,2,51.0,Cartão de Crédito,Alexandre Pires,301.031.051-83,Fernanda Costa,102.0,4,April,Saturday
+293,2023-10-29,Short Jeans 40,1,69.11,Cartão de Crédito,Conceicao Matos,123.281.206-79,Não identificado,69.11,10,October,Sunday
+380,2023-04-14,Camiseta Básica M,2,47.3,Pix,Valdinei Faria,905.865.185-06,Não identificado,94.6,4,April,Friday
+433,2023-06-03,Short Jeans 40,1,82.56,Cartão de Débito,Cristina Duarte,401.965.569-81,Fernanda Costa,82.56,6,June,Saturday
+472,2023-02-26,Jaqueta Couro M,2,271.49,Dinheiro,Ricardo Lopes,326.773.602-60,Fernanda Costa,542.98,2,February,Sunday
+296,2023-12-29,Tênis Casual 38,1,153.09,Cartão de Crédito,Neuza Lago,136.783.777-01,Fernanda Costa,153.09,12,December,Friday
+369,2023-05-09,Meia Kit C/ 3,2,25.01,Pix,Denise Rezende,163.287.083-17,Carlos Souza,50.02,5,May,Tuesday
+51,2023-09-19,Calça Jeans 42,1,117.07,Cartão de Crédito,Regiane Fonseca,680.443.699-57,Não identificado,117.07,9,September,Tuesday
+222,2023-10-28,Camiseta Básica M,1,50.32,Pix,Leonardo Azevedo,648.236.629-94,Fernanda Costa,50.32,10,October,Saturday
+49,2023-02-28,Tênis Casual 38,1,147.49,Dinheiro,Ana Oliveira,637.940.265-42,Ana Lima,147.49,2,February,Tuesday
+209,2023-01-21,Calça Jeans 42,1,123.955,Dinheiro,Alexandre Pires,693.406.088-35,Fernanda Costa,123.955,1,January,Saturday
+314,2023-01-19,Short Jeans 40,2,71.48,Cartão de Débito,Paulo Correia,164.005.242-78,Não identificado,142.96,1,January,Thursday
+196,2023-07-01,Jaqueta Couro M,1,298.15,Cartão de Crédito,Lucas Freitas,713.315.098-39,Fernanda Costa,298.15,7,July,Saturday
+120,2023-12-27,Tênis Casual 38,2,44.43,Pix,Bruno Alves,238.849.696-53,Carlos Souza,88.86,12,December,Wednesday
+199,2023-09-18,Camiseta Básica M,1,51.6,Cartão de Crédito,Carlos Souza,103.413.164-75,Ana Lima,51.6,9,September,Monday
+118,2023-11-24,Boné Aba Curva,1,52.28,Dinheiro,Rodrigo Figueiredo,563.421.607-33,Roberto Dias,52.28,11,November,Friday
+242,2023-07-10,Camiseta Básica M,1,43.4,Cartão de Crédito,Leonardo Azevedo,648.236.629-94,Carlos Souza,43.4,7,July,Monday
+87,2023-09-03,Short Jeans 40,4,75.11,Cartão de Débito,Robson Salles,362.316.658-76,Não identificado,300.44,9,September,Sunday
+61,2023-07-05,Camiseta Básica M,2,52.39,Cartão de Crédito,Elaine Tavares,134.332.003-79,Ana Lima,104.78,7,July,Wednesday
+192,2023-08-30,Boné Aba Curva,1,41.49,Dinheiro,Bruno Alves,413.953.767-24,Não identificado,41.49,8,August,Wednesday
+66,2023-10-11,Boné Aba Curva,1,46.9,Pix,Felipe Ribeiro,148.932.528-80,Carlos Souza,46.9,10,October,Wednesday
+173,2023-10-17,Camiseta Básica M,1,49.83,Cartão de Débito,Tatiane Cardoso,543.534.624-75,Roberto Dias,49.83,10,October,Tuesday
+162,2023-08-09,Camiseta Básica M,1,46.86,Dinheiro,João Santos,543.534.624-75,Roberto Dias,46.86,8,August,Wednesday
+26,2023-12-12,Vestido Floral P,2,84.76,Cartão de Débito,Eliandro Mesquita,413.435.240-82,Fernanda Costa,169.52,12,December,Tuesday
+6,2023-07-31,Camiseta Básica M,1,46.78,Dinheiro,Simone Castro,647.468.723-43,Não identificado,46.78,7,July,Monday
+429,2023-01-13,Blusa de Frio G,1,95.92,Dinheiro,Thiago Carvalho,117.182.278-24,Não identificado,95.92,1,January,Friday
+286,2023-08-03,Sandália Rasteira 36,1,65.19,Cartão de Débito,Daniel Vieira,808.412.411-82,Não identificado,65.19,8,August,Thursday
+444,2023-02-19,Blusa de Frio G,1,102.12,Pix,Fabio Melo,458.685.014-29,Fernanda Costa,102.12,2,February,Sunday
+104,2023-07-14,Calça Jeans 42,1,115.71,Pix,Daniel Vieira,957.015.430-39,Não identificado,115.71,7,July,Friday
+159,2023-03-13,Sandália Rasteira 36,2,49.9,Pix,Amanda Cavalcante,754.330.365-41,Roberto Dias,99.8,3,March,Monday
+55,2023-08-25,Short Jeans 40,3,70.92,Pix,Edmundo Avelar,518.233.749-89,Roberto Dias,212.76,8,August,Friday
+253,2023-06-01,Vestido Floral P,4,82.59,Cartão de Débito,Lidiane Pacheco,036.690.967-05,Carlos Souza,330.36,6,June,Thursday
+302,2023-12-18,Calça Jeans 42,1,124.91,Pix,Pedro Costa,351.161.559-40,Carlos Souza,124.91,12,December,Monday
+128,2023-01-23,Tênis Casual 38,1,145.17,Cartão de Débito,Ailton Bastos,699.016.272-04,Não identificado,145.17,1,January,Monday
+428,2023-11-11,Short Jeans 40,1,79.24,Cartão de Crédito,Rosane Leite,716.572.628-49,Ana Lima,79.24,11,November,Saturday
+447,2023-09-30,Blusa de Frio G,1,86.23,Cartão de Crédito,Sueli Queiroz,714.345.581-22,Não identificado,86.23,9,September,Saturday
+30,2023-05-22,Calça Jeans 42,1,135.64,Cartão de Crédito,Thiago Carvalho,117.182.278-24,Fernanda Costa,135.64,5,May,Monday
+19,2023-08-15,Boné Aba Curva,2,36.33,Dinheiro,Regiane Fonseca,680.443.699-57,Roberto Dias,72.66,8,August,Tuesday
+210,2023-01-16,Boné Aba Curva,1,40.25,Cartão de Crédito,Sueli Queiroz,714.345.581-22,Ana Lima,40.25,1,January,Monday
+184,2023-05-21,Camiseta Básica M,1,45.46,Cartão de Débito,Elaine Tavares,134.332.003-79,Carlos Souza,45.46,5,May,Sunday
+16,2023-02-20,Jaqueta Couro M,1,272.51,Dinheiro,Isabela Gomes,514.627.048-28,Roberto Dias,272.51,2,February,Monday
+363,2023-05-01,Jaqueta Couro M,1,307.83,Dinheiro,Rosangela Vasconcelos,706.562.729-80,Roberto Dias,307.83,5,May,Monday
+39,2023-02-13,Camiseta Básica M,1,45.7,Cartão de Crédito,Rosangela Vasconcelos,176.936.763-20,Roberto Dias,45.7,2,February,Monday
+244,2023-11-07,Meia Kit C/ 3,1,25.4,Pix,Rafael Mendes,764.835.030-56,Ana Lima,25.4,11,November,Tuesday
+44,2023-06-16,Jaqueta Couro M,2,284.15999999999997,Cartão de Crédito,Waldemar Faustino,400.842.710-94,Fernanda Costa,568.3199999999999,6,June,Friday
+398,2023-01-28,Vestido Floral P,1,78.42,Pix,Vilma Freire,361.832.421-02,Roberto Dias,78.42,1,January,Saturday
+305,2023-12-05,Camiseta Básica M,2,45.36,Cartão de Débito,Eliandro Mesquita,529.912.419-04,Carlos Souza,90.72,12,December,Tuesday
+396,2023-12-17,Boné Aba Curva,1,42.66,Dinheiro,Terezinha Barros,362.316.658-76,Carlos Souza,42.66,12,December,Sunday
+497,2023-04-28,Camiseta Básica M,1,45.2,Cartão de Débito,Robson Salles,362.316.658-76,Roberto Dias,45.2,4,April,Friday
+261,2023-08-04,Camiseta Básica M,1,46.24,Pix,Maria Silva,104.332.181-96,Fernanda Costa,46.24,8,August,Friday
+377,2023-03-21,Blusa de Frio G,2,99.57,Cartão de Crédito,Rodrigo Figueiredo,563.421.607-33,Não identificado,199.14,3,March,Tuesday
+393,2023-12-11,Jaqueta Couro M,1,302.08,Cartão de Crédito,Wanderson Reis,727.743.487-34,Carlos Souza,302.08,12,December,Monday
+237,2023-03-27,Calça Jeans 42,1,126.71,Pix,Simone Castro,647.468.723-43,Fernanda Costa,126.71,3,March,Monday
+62,2023-02-21,Short Jeans 40,1,70.01,Dinheiro,Miriam Deus,685.574.443-13,Carlos Souza,70.01,2,February,Tuesday
+325,2023-11-02,Short Jeans 40,1,75.97,Dinheiro,Juliana Rocha,413.953.767-24,Carlos Souza,75.97,11,November,Thursday
+250,2023-04-22,Blusa de Frio G,1,98.15,Dinheiro,Amanda Cavalcante,754.330.365-41,Não identificado,98.15,4,April,Saturday
+471,2023-01-11,Sandália Rasteira 36,1,61.23,Cartão de Débito,Andre Rodrigues,939.909.169-98,Não identificado,61.23,1,January,Wednesday
+10,2023-01-08,Tênis Casual 38,2,154.46,Cartão de Débito,Jair Andrade,877.694.531-47,Roberto Dias,308.92,1,January,Sunday
+483,2023-03-30,Sandália Rasteira 36,2,43.05,Cartão de Crédito,Fernanda Lima,255.341.928-32,Ana Lima,86.1,3,March,Thursday
+54,2023-08-20,Camiseta Básica M,4,49.9,Pix,Rafael Mendes,764.835.030-56,Não identificado,199.6,8,August,Sunday
+169,2023-02-28,Tênis Casual 38,2,48.55,Cartão de Crédito,Mauricio Sampaio,773.872.148-95,Carlos Souza,97.1,2,February,Tuesday
+103,2023-11-02,Blusa de Frio G,1,96.57,Cartão de Crédito,Paulo Correia,164.005.242-78,Não identificado,96.57,11,November,Thursday
+481,2023-01-19,Tênis Casual 38,1,152.64,Cartão de Débito,Rafael Mendes,764.835.030-56,Não identificado,152.64,1,January,Thursday
+493,2023-12-13,Boné Aba Curva,1,37.21,Cartão de Crédito,Alexandre Pires,693.406.088-35,Roberto Dias,37.21,12,December,Wednesday
+414,2023-09-26,Sandália Rasteira 36,1,47.59,Dinheiro,Lucia Ferreira,781.618.495-93,Ana Lima,47.59,9,September,Tuesday
+69,2023-08-18,Sandália Rasteira 36,1,72.56,Pix,Maria Silva,104.332.181-96,Não identificado,72.56,8,August,Friday
+109,2023-04-20,Calça Jeans 42,1,116.63,Cartão de Crédito,Jairo Cavalcante,436.349.578-85,Não identificado,116.63,4,April,Thursday
+207,2023-06-12,Blusa de Frio G,2,87.03,Pix,Viviane Ramos,680.112.805-98,Roberto Dias,174.06,6,June,Monday
+405,2023-03-19,Tênis Casual 38,1,155.5,Cartão de Débito,Wanderson Reis,727.743.487-34,Carlos Souza,155.5,3,March,Sunday
+89,2023-06-05,Calça Jeans 42,3,132.39,Dinheiro,Aline Nascimento,311.656.670-10,Carlos Souza,397.16999999999996,6,June,Monday
+358,2023-01-28,Camiseta Básica M,2,49.9,Dinheiro,Wanderson Reis,727.743.487-34,Fernanda Costa,99.8,1,January,Saturday
+259,2023-11-21,Camiseta Básica M,1,50.25,Cartão de Débito,Maria Silva,104.332.181-96,Ana Lima,50.25,11,November,Tuesday
+115,2023-12-12,Jaqueta Couro M,2,260.12,Cartão de Débito,Simone Castro,647.468.723-43,Ana Lima,520.24,12,December,Tuesday
+102,2023-09-18,Short Jeans 40,1,83.57,Pix,Valdinei Faria,905.865.185-06,Fernanda Costa,83.57,9,September,Monday
+141,2023-01-31,Sandália Rasteira 36,1,59.65,Cartão de Débito,Hilton Bessa,740.344.713-49,Fernanda Costa,59.65,1,January,Tuesday
+473,2023-03-24,Jaqueta Couro M,1,270.4,Dinheiro,Bruno Alves,238.849.696-53,Carlos Souza,270.4,3,March,Friday
+282,2023-09-25,Tênis Casual 38,2,44.95,Cartão de Crédito,Felipe Ribeiro,651.333.872-62,Carlos Souza,89.9,9,September,Monday
+351,2023-11-19,Short Jeans 40,1,74.28,Cartão de Débito,Jairo Cavalcante,436.349.578-85,Carlos Souza,74.28,11,November,Sunday
+153,2023-07-31,Tênis Casual 38,1,157.83,Cartão de Crédito,Camila Pereira,287.101.226-91,Carlos Souza,157.83,7,July,Monday
+462,2023-10-21,Camiseta Básica M,1,50.91,Dinheiro,Rodrigo Figueiredo,563.421.607-33,Fernanda Costa,50.91,10,October,Saturday
+71,2023-11-02,Short Jeans 40,1,77.18,Dinheiro,Ana Oliveira,637.940.265-42,Carlos Souza,77.18,11,November,Thursday
+324,2023-03-29,Vestido Floral P,1,81.17,Cartão de Débito,Robson Salles,362.316.658-76,Fernanda Costa,81.17,3,March,Wednesday
+379,2023-05-25,Tênis Casual 38,1,159.9,Cartão de Crédito,Robson Salles,362.316.658-76,Carlos Souza,159.9,5,May,Thursday
+208,2023-07-28,Camiseta Básica M,1,43.32,Cartão de Débito,Jairo Cavalcante,436.349.578-85,Fernanda Costa,43.32,7,July,Friday
+125,2023-12-16,Boné Aba Curva,4,34.93,Cartão de Crédito,Miriam Deus,685.574.443-13,Ana Lima,139.72,12,December,Saturday
+179,2023-05-08,Calça Jeans 42,1,117.4,Dinheiro,Alexandre Pires,693.406.088-35,Roberto Dias,117.4,5,May,Monday
+73,2023-01-23,Sandália Rasteira 36,2,49.73,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Ana Lima,99.46,1,January,Monday
+133,2023-02-10,Jaqueta Couro M,3,300.6,Cartão de Débito,Simone Castro,163.287.083-17,Não identificado,901.8000000000001,2,February,Friday
+231,2023-01-26,Tênis Casual 38,1,159.9,Cartão de Débito,Terezinha Barros,777.520.471-16,Não identificado,159.9,1,January,Thursday
+4,2023-02-16,Blusa de Frio G,1,94.81,Cartão de Débito,Regiane Fonseca,680.443.699-57,Roberto Dias,94.81,2,February,Thursday
+37,2023-02-20,Meia Kit C/3,2,23.41,Cartão de Crédito,Patricia Nunes,957.015.430-39,Roberto Dias,46.82,2,February,Monday
+91,2023-06-22,Meia Kit C/ 3,3,22.48,Cartão de Crédito,Waldemar Faustino,351.161.559-40,Não identificado,67.44,6,June,Thursday
+467,2023-05-15,Calça Jeans 42,3,128.04,Pix,Neuza Lago,136.783.777-01,Ana Lima,384.12,5,May,Monday
+419,2023-10-09,Tênis Casual 38,2,163.7,Cartão de Crédito,Carlos Souza,103.413.164-75,Ana Lima,327.4,10,October,Monday
+160,2023-07-25,Short Jeans 40,1,79.13,Cartão de Débito,Jair Andrade,877.694.531-47,Não identificado,79.13,7,July,Tuesday
+271,2023-01-05,Meia Kit C/3,1,25.54,Cartão de Crédito,Lucas Freitas,713.315.098-39,Fernanda Costa,25.54,1,January,Thursday
+464,2023-03-31,Vestido Floral P,1,89.9,Cartão de Crédito,Renata Monteiro,251.354.278-49,Não identificado,89.9,3,March,Friday
+81,2023-03-06,Camiseta Básica M,1,49.19,Dinheiro,Renata Monteiro,251.354.278-49,Fernanda Costa,49.19,3,March,Monday
+388,2023-12-01,Jaqueta Couro M,1,299.9,Pix,Leandro Borges,262.045.053-31,Fernanda Costa,299.9,12,December,Friday
+140,2023-02-08,Boné Aba Curva,1,33.99,Pix,Fernanda Lima,255.341.928-32,Roberto Dias,33.99,2,February,Wednesday
+292,2023-07-18,Blusa de Frio G,2,102.27,Pix,Cristina Duarte,401.965.569-81,Carlos Souza,204.54,7,July,Tuesday
+373,2023-07-10,Jaqueta Couro M,1,300.47,Cartão de Crédito,Diego Martins,669.784.801-84,Ana Lima,300.47,7,July,Monday
+47,2023-06-17,Camiseta Básica M,1,47.99,Cartão de Débito,Maria Silva,104.332.181-96,Fernanda Costa,47.99,6,June,Saturday
+50,2023-08-12,Short Jeans 40,1,70.6,Pix,Sueli Queiroz,714.345.581-22,Ana Lima,70.6,8,August,Saturday
+175,2023-04-22,Blusa de Frio G,3,95.92,Dinheiro,Felipe Ribeiro,148.932.528-80,Fernanda Costa,287.76,4,April,Saturday
+20,2023-05-02,Tênis Casual 38,1,148.57,Cartão de Crédito,Terezinha Barros,777.520.471-16,Não identificado,148.57,5,May,Tuesday
+136,2023-09-20,Boné Aba Curva,2,35.54,Dinheiro,Rosane Leite,716.572.628-49,Roberto Dias,71.08,9,September,Wednesday
+383,2023-09-23,Camiseta Básica M,1,48.66,Cartão de Crédito,Isabela Gomes,514.627.048-28,Não identificado,48.66,9,September,Saturday
+439,2023-12-04,Jaqueta Couro M,1,286.84,Cartão de Débito,Fabio Melo,458.685.014-29,Roberto Dias,286.84,12,December,Monday
+306,2023-12-13,Boné Aba Curva,3,34.25,Pix,Sergio Macedo,176.936.763-20,Não identificado,102.75,12,December,Wednesday
+205,2023-02-17,Camiseta Básica M,1,43.26,Cartão de Crédito,Henrique Dias,107.991.183-84,Não identificado,43.26,2,February,Friday
+475,2023-05-13,Camiseta Básica M,1,48.93,Cartão de Crédito,Lucia Ferreira,777.520.471-16,Ana Lima,48.93,5,May,Saturday
+186,2023-08-05,Jaqueta Couro M,2,276.96,Dinheiro,Mariana Barbosa,896.383.465-78,Carlos Souza,553.92,8,August,Saturday
+391,2023-02-10,Jaqueta Couro M,1,262.15,Cartão de Débito,Rafael Mendes,764.835.030-56,Carlos Souza,262.15,2,February,Friday
+14,2023-07-29,Meia Kit C/3,2,25.41,Pix,Eduardo Pinto,164.005.242-78,Roberto Dias,50.82,7,July,Saturday
+200,2023-12-02,Blusa de Frio G,1,99.9,Dinheiro,Tatiane Cardoso,543.534.624-75,Ana Lima,99.9,12,December,Saturday
+432,2023-01-19,Sandália Rasteira 36,1,50.24,Dinheiro,Lucas Freitas,713.315.098-39,Ana Lima,50.24,1,January,Thursday
+492,2023-03-10,Calça Jeans 42,3,125.81,Dinheiro,Aline Nascimento,311.656.670-10,Roberto Dias,377.43,3,March,Friday
+323,2023-07-27,Sandália Rasteira 36,2,62.44,Pix,Waldemar Faustino,400.842.710-94,Roberto Dias,124.88,7,July,Thursday
+82,2023-02-09,Short Jeans 40,1,79.67,Pix,Lucas Freitas,713.315.098-39,Não identificado,79.67,2,February,Thursday
+38,2023-08-21,Tênis Casual 38,1,157.88,Pix,Lidiane Pacheco,036.690.967-05,Ana Lima,157.88,8,August,Monday
+15,2023-11-17,Jaqueta Couro M,1,310.15,Cartão de Crédito,Valdinei Faria,905.865.185-06,Ana Lima,310.15,11,November,Friday
+474,2023-02-05,Blusa de Frio G,1,89.28,Cartão de Débito,Marcos Teixeira,098.050.097-88,Ana Lima,89.28,2,February,Sunday
+434,2023-03-18,Vestido Floral P,1,79.78,Cartão de Crédito,Pedro Costa,351.161.559-40,Fernanda Costa,79.78,3,March,Saturday
+371,2023-09-24,Camiseta Básica M,1,52.13,Cartão de Crédito,Carolina Fernandes,449.353.487-40,Roberto Dias,52.13,9,September,Sunday
+5,2023-01-19,Blusa de Frio G,1,104.66,Cartão de Débito,Diego Martins,669.784.801-84,Não identificado,104.66,1,January,Thursday
+441,2023-05-19,Calça Jeans 42,3,111.73,Cartão de Crédito,Priscila Andrade,586.923.226-02,Roberto Dias,335.19,5,May,Friday
+132,2023-10-15,Blusa de Frio G,1,97.84,Pix,Lidiane Pacheco,036.690.967-05,Fernanda Costa,97.84,10,October,Sunday
+96,2023-03-23,Blusa de Frio G,1,94.05,Cartão de Crédito,Dilma Couto,379.965.075-27,Carlos Souza,94.05,3,March,Thursday
+451,2023-09-30,Vestido Floral P,3,90.7,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Fernanda Costa,272.1,9,September,Saturday
+254,2023-11-23,Meia Kit C/3,2,25.53,Cartão de Crédito,Eliandro Mesquita,529.912.419-04,Fernanda Costa,51.06,11,November,Thursday
+395,2023-10-14,Calça Jeans 42,4,116.71,Dinheiro,Valdinei Faria,905.865.185-06,Roberto Dias,466.84,10,October,Saturday
+161,2023-11-23,Boné Aba Curva,1,48.04,Cartão de Débito,Camila Pereira,287.101.226-91,Roberto Dias,48.04,11,November,Thursday
+67,2023-02-16,Boné Aba Curva,1,36.9,Dinheiro,Tatiane Cardoso,543.534.624-75,Ana Lima,36.9,2,February,Thursday
+112,2023-03-31,Blusa de Frio G,2,88.64,Cartão de Débito,Vanessa Moreira,473.178.108-01,Fernanda Costa,177.28,3,March,Friday
+145,2023-02-12,Blusa de Frio G,4,103.28,Cartão de Crédito,Rosangela Vasconcelos,706.562.729-80,Carlos Souza,413.12,2,February,Sunday
+124,2023-07-29,Calça Jeans 42,1,120.35,Dinheiro,Lucas Freitas,713.315.098-39,Roberto Dias,120.35,7,July,Saturday
+319,2023-07-07,Short Jeans 40,1,81.78,Pix,Bruno Alves,238.849.696-53,Roberto Dias,81.78,7,July,Friday
+93,2023-08-21,Camiseta Básica M,1,51.01,Dinheiro,Rafael Mendes,764.835.030-56,Fernanda Costa,51.01,8,August,Monday
+154,2023-06-04,Vestido Floral P,1,82.91,Cartão de Crédito,Rosane Leite,716.572.628-49,Roberto Dias,82.91,6,June,Sunday
+321,2023-08-01,Meia Kit C/3,1,25.32,Cartão de Crédito,Natalia Brito,615.951.484-65,Carlos Souza,25.32,8,August,Tuesday
+442,2023-02-24,Tênis Casual 38,1,158.28,Pix,Fernanda Lima,727.743.487-34,Fernanda Costa,158.28,2,February,Friday
+487,2023-07-09,Camiseta Básica M,1,50.32,Pix,Maria Silva,669.784.801-84,Carlos Souza,50.32,7,July,Sunday
+31,2023-03-06,Meia Kit C/3,1,22.33,Cartão de Débito,Waldemar Faustino,400.842.710-94,Carlos Souza,22.33,3,March,Monday
+8,2023-04-26,Meia Kit C/ 3,2,24.73,Pix,Patricia Nunes,957.015.430-39,Fernanda Costa,49.46,4,April,Wednesday
+482,2023-10-24,Vestido Floral P,3,80.78,Cartão de Débito,Bruno Alves,301.031.051-83,Carlos Souza,242.34,10,October,Tuesday
+166,2023-06-19,Short Jeans 40,1,74.82,Cartão de Crédito,Everaldo Medeiros,466.889.373-46,Não identificado,74.82,6,June,Monday
+387,2023-01-01,Jaqueta Couro M,4,272.93,Cartão de Crédito,Lucia Ferreira,781.618.495-93,Carlos Souza,1091.72,1,January,Sunday
+224,2023-04-01,Jaqueta Couro M,4,256.86,Pix,Maria Silva,104.332.181-96,Fernanda Costa,1027.44,4,April,Saturday
+46,2023-09-27,Sandália Rasteira 36,1,70.14,Cartão de Débito,Fabio Melo,727.743.487-34,Fernanda Costa,70.14,9,September,Wednesday
+456,2023-12-23,Sandália Rasteira 36,2,62.57,Dinheiro,Everaldo Medeiros,466.889.373-46,Não identificado,125.14,12,December,Saturday
+171,2023-11-22,Short Jeans 40,1,68.77,Dinheiro,Vanessa Moreira,473.178.108-01,Ana Lima,68.77,11,November,Wednesday
+300,2023-01-23,Vestido Floral P,1,90.32,Pix,Simone Castro,647.468.723-43,Ana Lima,90.32,1,January,Monday
+32,2023-01-02,Vestido Floral P,1,78.78,Dinheiro,Larissa Campos,301.031.051-83,Carlos Souza,78.78,1,January,Monday
+121,2023-06-17,Meia Kit C/3,1,23.38,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Roberto Dias,23.38,6,June,Saturday
+284,2023-08-19,Blusa de Frio G,1,85.89,Dinheiro,Glória Siqueira,869.993.867-74,Não identificado,85.89,8,August,Saturday
+452,2023-06-26,Camiseta Básica M,1,47.89,Cartão de Crédito,Josenildo Cruz,379.965.075-27,Ana Lima,47.89,6,June,Monday
+77,2023-07-24,Jaqueta Couro M,1,310.36,Pix,Ailton Bastos,699.016.272-04,Fernanda Costa,310.36,7,July,Monday
+381,2023-01-26,Tênis Casual 38,3,47.32,Cartão de Crédito,Tatiane Cardoso,543.534.624-75,Roberto Dias,141.96,1,January,Thursday
+430,2023-01-06,Sandália Rasteira 36,1,50.07,Cartão de Crédito,Marcos Teixeira,098.050.097-88,Fernanda Costa,50.07,1,January,Friday
+1,2023-06-07,Sandália Rasteira 36,1,63.22,Pix,Waldemar Faustino,400.842.710-94,Roberto Dias,63.22,6,June,Wednesday
+203,2023-04-11,Jaqueta Couro M,1,275.69,Cartão de Débito,Miriam Deus,685.574.443-13,Ana Lima,275.69,4,April,Tuesday
+335,2023-11-11,Sandália Rasteira 36,2,47.35,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Carlos Souza,94.7,11,November,Saturday
+313,2023-11-04,Vestido Floral P,2,86.82,Cartão de Débito,Bruno Alves,238.849.696-53,Não identificado,173.64,11,November,Saturday
+240,2023-02-21,Meia Kit C/3,1,24.01,Pix,Priscila Andrade,586.923.226-02,Ana Lima,24.01,2,February,Tuesday
+337,2023-02-14,Vestido Floral P,1,77.65,Cartão de Crédito,Sueli Queiroz,714.345.581-22,Não identificado,77.65,2,February,Tuesday
+144,2023-12-17,Meia Kit C/ 3,1,23.92,Cartão de Crédito,Camila Pereira,287.101.226-91,Ana Lima,23.92,12,December,Sunday
+127,2023-05-12,Blusa de Frio G,1,85.59,Pix,Hilton Bessa,740.344.713-49,Ana Lima,85.59,5,May,Friday
+220,2023-03-31,Blusa de Frio G,1,97.19,Cartão de Débito,Lucia Ferreira,107.991.183-84,Carlos Souza,97.19,3,March,Friday
+266,2023-08-04,Sandália Rasteira 36,1,60.88,Cartão de Débito,Isabela Gomes,514.627.048-28,Não identificado,60.88,8,August,Friday
+448,2023-08-11,Short Jeans 40,1,77.09,Pix,Leonardo Azevedo,648.236.629-94,Ana Lima,77.09,8,August,Friday
+212,2023-12-04,Boné Aba Curva,2,34.89,Pix,Ailton Bastos,699.016.272-04,Ana Lima,69.78,12,December,Monday
+489,2023-02-15,Sandália Rasteira 36,1,47.71,Cartão de Crédito,Amanda Cavalcante,754.330.365-41,Não identificado,47.71,2,February,Wednesday
+406,2023-04-05,Short Jeans 40,1,78.34,Pix,Eduardo Pinto,473.829.973-76,Não identificado,78.34,4,April,Wednesday
+126,2023-06-02,Blusa de Frio G,1,88.68,Cartão de Débito,Miriam Deus,685.574.443-13,Ana Lima,88.68,6,June,Friday
+427,2023-05-09,Jaqueta Couro M,2,286.43,Pix,Conceicao Matos,123.281.206-79,Fernanda Costa,572.86,5,May,Tuesday
+329,2023-02-12,Vestido Floral P,2,86.81,Cartão de Crédito,Deusdete Matos,964.990.913-34,Não identificado,173.62,2,February,Sunday
+98,2023-05-16,Jaqueta Couro M,1,288.1,Cartão de Crédito,Elaine Tavares,134.332.003-79,Roberto Dias,288.1,5,May,Tuesday
+416,2023-12-20,Short Jeans 40,1,77.27,Cartão de Débito,Larissa Campos,301.031.051-83,Não identificado,77.27,12,December,Wednesday
+301,2023-04-18,Sandália Rasteira 36,1,73.06,Cartão de Débito,Andre Rodrigues,939.909.169-98,Roberto Dias,73.06,4,April,Tuesday
+52,2023-12-02,Camiseta Básica M,1,49.21,Pix,Vanessa Moreira,473.178.108-01,Não identificado,49.21,12,December,Saturday
+36,2023-02-03,Calça Jeans 42,1,118.08,Pix,Leandro Borges,262.045.053-31,Não identificado,118.08,2,February,Friday
+376,2023-04-08,Short Jeans 40,3,81.67,Cartão de Crédito,Ricardo Lopes,326.773.602-60,Ana Lima,245.01,4,April,Saturday
+477,2023-04-26,Camiseta Básica M,1,46.0,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Fernanda Costa,46.0,4,April,Wednesday
+182,2023-10-08,Short Jeans 40,2,77.18,Cartão de Crédito,Mariana Barbosa,896.383.465-78,Roberto Dias,154.36,10,October,Sunday
+401,2023-07-18,Sandália Rasteira 36,1,71.76,Dinheiro,Viviane Ramos,680.112.805-98,Carlos Souza,71.76,7,July,Tuesday
+352,2023-04-21,Meia Kit C/ 3,1,23.96,Cartão de Débito,Carolina Fernandes,449.353.487-40,Fernanda Costa,23.96,4,April,Friday
+95,2023-05-29,Boné Aba Curva,3,41.37,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Fernanda Costa,124.10999999999999,5,May,Monday
+330,2023-07-12,Sandália Rasteira 36,1,44.95,Pix,Beatriz Cunha,208.121.913-61,Roberto Dias,44.95,7,July,Wednesday
+70,2023-02-26,Jaqueta Couro M,1,292.27,Cartão de Crédito,Priscila Andrade,586.923.226-02,Ana Lima,292.27,2,February,Sunday
+328,2023-04-09,Meia Kit C/3,2,23.28,Dinheiro,Denise Rezende,163.287.083-17,Roberto Dias,46.56,4,April,Sunday
+327,2023-04-10,Meia Kit C/ 3,1,21.38,Pix,Maria Silva,104.332.181-96,Roberto Dias,21.38,4,April,Monday
+421,2023-08-23,Blusa de Frio G,3,96.68,Pix,Rosane Leite,716.572.628-49,Roberto Dias,290.04,8,August,Wednesday
+2,2023-02-11,Sandália Rasteira 36,1,68.84,Pix,Carlos Souza,103.413.164-75,Não identificado,68.84,2,February,Saturday
+23,2023-06-01,Tênis Casual 38,1,152.89,Dinheiro,Lidiane Pacheco,036.690.967-05,Carlos Souza,152.89,6,June,Thursday
+404,2023-05-22,Meia Kit C/3,2,24.060000000000002,Pix,Rafael Mendes,764.835.030-56,Fernanda Costa,48.120000000000005,5,May,Monday
+194,2023-09-19,Boné Aba Curva,1,48.9,Cartão de Débito,Beatriz Cunha,208.121.913-61,Ana Lima,48.9,9,September,Tuesday
+312,2023-08-25,Blusa de Frio G,2,99.9,Dinheiro,Mauricio Sampaio,773.872.148-95,Carlos Souza,199.8,8,August,Friday
+500,2023-04-22,Calça Jeans 42,1,128.69,Pix,Mauricio Sampaio,773.872.148-95,Não identificado,128.69,4,April,Saturday
+17,2023-05-06,Short Jeans 40,1,77.82,Cartão de Crédito,Robson Salles,362.316.658-76,Roberto Dias,77.82,5,May,Saturday
+368,2023-08-26,Jaqueta Couro M,1,259.2,Pix,Lucia Ferreira,781.618.495-93,Carlos Souza,259.2,8,August,Saturday
+135,2023-12-23,Sandália Rasteira 36,1,68.48,Dinheiro,Beatriz Cunha,208.121.913-61,Fernanda Costa,68.48,12,December,Saturday
+223,2023-12-29,Boné Aba Curva,1,35.31,Dinheiro,Ivone Guedes,413.435.240-82,Fernanda Costa,35.31,12,December,Friday
+356,2023-11-27,Tênis Casual 38,2,150.32,Cartão de Crédito,Viviane Ramos,680.112.805-98,Carlos Souza,300.64,11,November,Monday
+422,2023-08-15,Camiseta Básica M,2,50.65,Cartão de Crédito,Deusdete Matos,964.990.913-34,Carlos Souza,101.3,8,August,Tuesday
+107,2023-12-20,Jaqueta Couro M,2,262.23,Cartão de Débito,Valdinei Faria,905.865.185-06,Não identificado,524.46,12,December,Wednesday
+74,2023-06-20,Calça Jeans 42,2,135.9,Pix,Carlos Souza,103.413.164-75,Carlos Souza,271.8,6,June,Tuesday
+268,2023-01-21,Short Jeans 40,1,77.18,Cartão de Crédito,Rosane Leite,716.572.628-49,Ana Lima,77.18,1,January,Saturday
+310,2023-11-14,Camiseta Básica M,1,48.06,Dinheiro,Simone Castro,647.468.723-43,Fernanda Costa,48.06,11,November,Tuesday
+265,2023-12-05,Camiseta Básica M,1,43.94,Cartão de Débito,Ana Oliveira,957.015.430-39,Ana Lima,43.94,12,December,Tuesday
+218,2023-10-22,Meia Kit C/3,1,25.18,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Fernanda Costa,25.18,10,October,Sunday
+394,2023-02-12,Blusa de Frio G,1,98.86,Cartão de Débito,Terezinha Barros,777.520.471-16,Carlos Souza,98.86,2,February,Sunday
+374,2023-11-27,Calça Jeans 42,1,130.9,Cartão de Débito,Jairo Cavalcante,436.349.578-85,Fernanda Costa,130.9,11,November,Monday
+315,2023-03-10,Blusa de Frio G,2,101.03,Pix,Jair Andrade,877.694.531-47,Carlos Souza,202.06,3,March,Friday
+385,2023-07-25,Short Jeans 40,3,76.71,Dinheiro,Leonardo Azevedo,648.236.629-94,Fernanda Costa,230.13,7,July,Tuesday
+111,2023-09-02,Sandália Rasteira 36,1,48.92,Cartão de Crédito,Marcos Teixeira,098.050.097-88,Não identificado,48.92,9,September,Saturday
+289,2023-08-05,Meia Kit C/3,1,22.16,Cartão de Débito,João Santos,001.338.908-38,Carlos Souza,22.16,8,August,Saturday
+316,2023-03-13,Blusa de Frio G,4,94.58,Dinheiro,Aline Nascimento,311.656.670-10,Ana Lima,378.32,3,March,Monday
+307,2023-03-10,Short Jeans 40,1,78.24,Pix,Camila Pereira,287.101.226-91,Carlos Souza,78.24,3,March,Friday
+180,2023-02-08,Sandália Rasteira 36,3,47.29,Pix,Diego Martins,669.784.801-84,Ana Lima,141.87,2,February,Wednesday
+343,2023-12-16,Boné Aba Curva,3,44.44,Cartão de Crédito,Simone Castro,647.468.723-43,Não identificado,133.32,12,December,Saturday
+370,2023-04-12,Blusa de Frio G,2,91.37,Cartão de Débito,Isabela Gomes,514.627.048-28,Ana Lima,182.74,4,April,Wednesday
+7,2023-05-28,Blusa de Frio G,1,95.92,Pix,Valdinei Faria,905.865.185-06,Roberto Dias,95.92,5,May,Sunday
+339,2023-03-31,Blusa de Frio G,1,100.96,Dinheiro,Jair Andrade,877.694.531-47,Não identificado,100.96,3,March,Friday
+198,2023-12-09,Blusa de Frio G,1,86.97,Pix,Dilma Couto,379.965.075-27,Ana Lima,86.97,12,December,Saturday
+449,2023-11-02,Blusa de Frio G,4,99.9,Cartão de Crédito,Alexandre Pires,693.406.088-35,Não identificado,399.6,11,November,Thursday
+219,2023-01-15,Jaqueta Couro M,1,307.79,Pix,Mauricio Sampaio,773.872.148-95,Não identificado,307.79,1,January,Sunday
+367,2023-03-06,Jaqueta Couro M,1,273.6,Cartão de Débito,Ailton Bastos,699.016.272-04,Roberto Dias,273.6,3,March,Monday
+204,2023-01-01,Jaqueta Couro M,1,284.43,Cartão de Crédito,Denise Rezende,163.287.083-17,Carlos Souza,284.43,1,January,Sunday
+185,2023-12-02,Camiseta Básica M,1,46.86,Cartão de Crédito,Isabela Gomes,966.319.314-91,Fernanda Costa,46.86,12,December,Saturday
+299,2023-07-17,Vestido Floral P,1,85.66,Pix,Miriam Deus,685.574.443-13,Roberto Dias,85.66,7,July,Monday
+262,2023-02-03,Meia Kit C/ 3,1,25.59,Cartão de Crédito,Carlos Souza,103.413.164-75,Fernanda Costa,25.59,2,February,Friday
+359,2023-05-07,Jaqueta Couro M,1,257.02,Dinheiro,Priscila Andrade,586.923.226-02,Fernanda Costa,257.02,5,May,Sunday
+252,2023-03-18,Short Jeans 40,2,78.79,Cartão de Débito,Renata Monteiro,251.354.278-49,Ana Lima,157.58,3,March,Saturday
+478,2023-01-29,Sandália Rasteira 36,2,45.31,Cartão de Crédito,Diego Martins,669.784.801-84,Carlos Souza,90.62,1,January,Sunday
+202,2023-06-17,Camiseta Básica M,2,44.84,Dinheiro,Edmundo Avelar,518.233.749-89,Não identificado,89.68,6,June,Saturday
+263,2023-07-03,Jaqueta Couro M,1,313.99,Cartão de Crédito,Simone Castro,647.468.723-43,Ana Lima,313.99,7,July,Monday
+435,2023-12-30,Camiseta Básica M,1,44.57,Dinheiro,Viviane Ramos,680.112.805-98,Carlos Souza,44.57,12,December,Saturday
+303,2023-07-28,Tênis Casual 38,2,156.43,Pix,Elisa Coutinho,653.755.646-41,Ana Lima,312.86,7,July,Friday
+276,2023-09-23,Short Jeans 40,2,81.12,Pix,Vilma Freire,808.412.411-82,Ana Lima,162.24,9,September,Saturday
+43,2023-03-15,Short Jeans 40,1,75.16,Cartão de Crédito,Sueli Queiroz,351.161.559-40,Fernanda Costa,75.16,3,March,Wednesday
+402,2023-09-18,Jaqueta Couro M,1,312.9,Pix,Isabela Gomes,514.627.048-28,Ana Lima,312.9,9,September,Monday
+101,2023-03-18,Sandália Rasteira 36,1,71.19,Pix,Dilma Couto,379.965.075-27,Fernanda Costa,71.19,3,March,Saturday
+143,2023-11-14,Short Jeans 40,1,76.94,Cartão de Débito,Carolina Fernandes,449.353.487-40,Carlos Souza,76.94,11,November,Tuesday
+114,2023-05-20,Calça Jeans 42,2,123.955,Dinheiro,Patricia Nunes,957.015.430-39,Fernanda Costa,247.91,5,May,Saturday
+100,2023-07-07,Jaqueta Couro M,1,274.89,Pix,Larissa Campos,301.031.051-83,Não identificado,274.89,7,July,Friday
+29,2023-08-16,Blusa de Frio G,2,104.45,Dinheiro,Renata Monteiro,251.354.278-49,Ana Lima,208.9,8,August,Wednesday
+392,2023-01-06,Sandália Rasteira 36,1,47.43,Cartão de Crédito,Denise Rezende,136.783.777-01,Carlos Souza,47.43,1,January,Friday
+48,2023-07-23,Meia Kit C/3,1,23.18,Cartão de Débito,Carlos Souza,103.413.164-75,Roberto Dias,23.18,7,July,Sunday
+183,2023-05-03,Boné Aba Curva,4,49.29,Cartão de Crédito,Aline Nascimento,311.656.670-10,Fernanda Costa,197.16,5,May,Wednesday
+229,2023-02-17,Tênis Casual 38,1,155.34,Dinheiro,Deusdete Matos,964.990.913-34,Carlos Souza,155.34,2,February,Friday
+113,2023-01-05,Vestido Floral P,1,85.84,Cartão de Crédito,Waldemar Faustino,400.842.710-94,Não identificado,85.84,1,January,Thursday
+206,2023-11-23,Meia Kit C/ 3,2,22.62,Dinheiro,Wanderson Reis,400.842.710-94,Roberto Dias,45.24,11,November,Thursday
+495,2023-11-20,Tênis Casual 38,2,152.99,Cartão de Crédito,Viviane Ramos,680.112.805-98,Ana Lima,305.98,11,November,Monday
+158,2023-01-14,Boné Aba Curva,2,39.9,Cartão de Débito,Nadia Chaves,092.327.193-74,Roberto Dias,79.8,1,January,Saturday
+476,2023-05-17,Calça Jeans 42,3,121.74,Cartão de Débito,Natalia Brito,615.951.484-65,Ana Lima,365.21999999999997,5,May,Wednesday
+283,2023-07-21,Calça Jeans 42,2,123.955,Cartão de Débito,Clodoaldo Braga,708.053.100-33,Não identificado,247.91,7,July,Friday
+72,2023-08-02,Calça Jeans 42,1,123.6,Cartão de Crédito,Camila Pereira,287.101.226-91,Roberto Dias,123.6,8,August,Wednesday
+499,2023-09-16,Camiseta Básica M,2,44.82,Pix,Everaldo Medeiros,466.889.373-46,Ana Lima,89.64,9,September,Saturday
+246,2023-11-22,Boné Aba Curva,1,47.15,Pix,Thiago Carvalho,117.182.278-24,Fernanda Costa,47.15,11,November,Wednesday
+426,2023-12-22,Meia Kit C/3,1,24.060000000000002,Pix,Leandro Borges,262.045.053-31,Não identificado,24.060000000000002,12,December,Friday
+174,2023-09-19,Camiseta Básica M,1,42.83,Cartão de Débito,Terezinha Barros,777.520.471-16,Roberto Dias,42.83,9,September,Tuesday
+227,2023-07-31,Blusa de Frio G,2,100.06,Cartão de Crédito,Denise Rezende,163.287.083-17,Carlos Souza,200.12,7,July,Monday
+290,2023-12-16,Vestido Floral P,2,86.205,Pix,Larissa Campos,301.031.051-83,Ana Lima,172.41,12,December,Saturday
+340,2023-05-09,Jaqueta Couro M,2,282.44,Pix,Ailton Bastos,699.016.272-04,Não identificado,564.88,5,May,Tuesday
+294,2023-07-13,Camiseta Básica M,2,46.78,Pix,Everaldo Medeiros,466.889.373-46,Carlos Souza,93.56,7,July,Thursday
+149,2023-07-23,Jaqueta Couro M,1,277.43,Cartão de Crédito,Alexandre Pires,680.112.805-98,Não identificado,277.43,7,July,Sunday
+412,2023-07-31,Vestido Floral P,3,92.01,Pix,Marcos Teixeira,098.050.097-88,Fernanda Costa,276.03000000000003,7,July,Monday
+152,2023-10-12,Short Jeans 40,1,80.45,Dinheiro,Robson Salles,362.316.658-76,Ana Lima,80.45,10,October,Thursday
+170,2023-03-02,Vestido Floral P,1,86.75,Dinheiro,Fabio Melo,458.685.014-29,Carlos Souza,86.75,3,March,Thursday
+260,2023-11-11,Blusa de Frio G,1,92.37,Cartão de Crédito,Everaldo Medeiros,466.889.373-46,Fernanda Costa,92.37,11,November,Saturday
+280,2023-09-18,Short Jeans 40,2,81.41,Dinheiro,Beatriz Cunha,208.121.913-61,Não identificado,162.82,9,September,Monday
+3,2023-12-11,Meia Kit C/ 3,1,22.55,Pix,Viviane Ramos,680.112.805-98,Roberto Dias,22.55,12,December,Monday
+80,2023-02-08,Sandália Rasteira 36,4,67.91,Cartão de Débito,Sueli Queiroz,714.345.581-22,Roberto Dias,271.64,2,February,Wednesday
+164,2023-06-09,Tênis Casual 38,1,150.38,Cartão de Crédito,Clodoaldo Braga,708.053.100-33,Fernanda Costa,150.38,6,June,Friday
+384,2023-08-01,Jaqueta Couro M,2,261.16,Cartão de Débito,Felipe Ribeiro,148.932.528-80,Carlos Souza,522.32,8,August,Tuesday
+75,2023-02-02,Jaqueta Couro M,1,284.15999999999997,Dinheiro,Clodoaldo Braga,098.050.097-88,Não identificado,284.15999999999997,2,February,Thursday
+256,2023-06-07,Blusa de Frio G,1,95.92,Cartão de Débito,Natalia Brito,615.951.484-65,Não identificado,95.92,6,June,Wednesday
+13,2023-06-03,Short Jeans 40,2,79.9,Pix,Glória Siqueira,869.993.867-74,Ana Lima,159.8,6,June,Saturday
+453,2023-07-03,Camiseta Básica M,1,46.24,Dinheiro,Priscila Andrade,586.923.226-02,Roberto Dias,46.24,7,July,Monday
+155,2023-11-12,Calça Jeans 42,1,131.3,Dinheiro,Clodoaldo Braga,708.053.100-33,Roberto Dias,131.3,11,November,Sunday
+274,2023-07-14,Jaqueta Couro M,2,283.89,Pix,Mauricio Sampaio,773.872.148-95,Ana Lima,567.78,7,July,Friday
+84,2023-02-07,Blusa de Frio G,2,91.3,Dinheiro,Vanessa Moreira,473.178.108-01,Ana Lima,182.6,2,February,Tuesday
+484,2023-11-01,Meia Kit C/3,2,24.54,Dinheiro,Hilton Bessa,740.344.713-49,Ana Lima,49.08,11,November,Wednesday
+230,2023-02-21,Tênis Casual 38,3,157.04,Dinheiro,Beatriz Cunha,208.121.913-61,Carlos Souza,471.12,2,February,Tuesday
+375,2023-04-09,Camiseta Básica M,3,46.78,Dinheiro,Denise Rezende,163.287.083-17,Não identificado,140.34,4,April,Sunday
+372,2023-08-01,Calça Jeans 42,4,128.36,Cartão de Débito,Leandro Borges,262.045.053-31,Não identificado,513.44,8,August,Tuesday
+459,2023-09-22,Camiseta Básica M,1,52.0,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Não identificado,52.0,9,September,Friday
+353,2023-01-11,Blusa de Frio G,1,95.67,Cartão de Débito,Thiago Carvalho,117.182.278-24,Fernanda Costa,95.67,1,January,Wednesday
+389,2023-03-12,Vestido Floral P,1,86.65,Cartão de Crédito,Elaine Tavares,134.332.003-79,Ana Lima,86.65,3,March,Sunday
+18,2023-03-15,Vestido Floral P,3,81.59,Pix,Nadia Chaves,092.327.193-74,Carlos Souza,244.77,3,March,Wednesday
+491,2023-03-23,Sandália Rasteira 36,1,70.02,Cartão de Crédito,Carlos Souza,134.332.003-79,Ana Lima,70.02,3,March,Thursday
+106,2023-07-10,Tênis Casual 38,1,52.12,Dinheiro,Paulo Correia,164.005.242-78,Fernanda Costa,52.12,7,July,Monday
+190,2023-04-16,Short Jeans 40,1,83.17,Pix,Conceicao Matos,123.281.206-79,Roberto Dias,83.17,4,April,Sunday
+408,2023-10-13,Short Jeans 40,1,83.46,Dinheiro,Thiago Carvalho,117.182.278-24,Fernanda Costa,83.46,10,October,Friday
+226,2023-08-17,Camiseta Básica M,2,42.9,Pix,Paulo Correia,164.005.242-78,Roberto Dias,85.8,8,August,Thursday
+65,2023-05-25,Jaqueta Couro M,1,307.28,Cartão de Crédito,Denise Rezende,163.287.083-17,Roberto Dias,307.28,5,May,Thursday
+295,2023-03-20,Boné Aba Curva,2,50.3,Pix,Alexandre Pires,693.406.088-35,Fernanda Costa,100.6,3,March,Monday
+163,2023-12-20,Short Jeans 40,1,83.28,Cartão de Crédito,Eduardo Pinto,473.829.973-76,Carlos Souza,83.28,12,December,Wednesday
+22,2023-12-14,Jaqueta Couro M,1,289.68,Cartão de Débito,Lucas Freitas,713.315.098-39,Carlos Souza,289.68,12,December,Thursday
+60,2023-07-12,Sandália Rasteira 36,2,47.67,Cartão de Débito,Natalia Brito,615.951.484-65,Roberto Dias,95.34,7,July,Wednesday
+122,2023-09-20,Blusa de Frio G,1,95.92,Dinheiro,Clodoaldo Braga,708.053.100-33,Ana Lima,95.92,9,September,Wednesday
+366,2023-12-25,Sandália Rasteira 36,1,62.01,Cartão de Crédito,Valdinei Faria,905.865.185-06,Fernanda Costa,62.01,12,December,Monday
+79,2023-08-17,Sandália Rasteira 36,2,68.01,Dinheiro,Everaldo Medeiros,466.889.373-46,Fernanda Costa,136.02,8,August,Thursday
+342,2023-05-28,Camiseta Básica M,3,45.94,Pix,Sueli Queiroz,714.345.581-22,Fernanda Costa,137.82,5,May,Sunday
+440,2023-05-20,Calça Jeans 42,2,115.78,Dinheiro,Aline Nascimento,311.656.670-10,Não identificado,231.56,5,May,Saturday
+496,2023-08-23,Blusa de Frio G,1,103.95,Cartão de Crédito,Gustavo Araujo,651.333.872-62,Não identificado,103.95,8,August,Wednesday
+94,2023-03-08,Jaqueta Couro M,1,281.88,Cartão de Crédito,Sergio Macedo,176.936.763-20,Ana Lima,281.88,3,March,Wednesday
+147,2023-10-28,Calça Jeans 42,1,128.0,Pix,Wanderson Reis,727.743.487-34,Fernanda Costa,128.0,10,October,Saturday
+275,2023-08-14,Camiseta Básica M,2,48.17,Pix,Juliana Rocha,413.953.767-24,Carlos Souza,96.34,8,August,Monday
+365,2023-11-29,Jaqueta Couro M,1,293.12,Pix,Jairo Cavalcante,436.349.578-85,Roberto Dias,293.12,11,November,Wednesday
+86,2023-05-02,Meia Kit C/3,4,25.57,Cartão de Crédito,Rosane Leite,518.233.749-89,Fernanda Costa,102.28,5,May,Tuesday
+234,2023-04-26,Meia Kit C/ 3,1,25.19,Dinheiro,Viviane Ramos,680.112.805-98,Não identificado,25.19,4,April,Wednesday
+146,2023-01-09,Vestido Floral P,1,79.64,Dinheiro,Carlos Souza,103.413.164-75,Ana Lima,79.64,1,January,Monday
+469,2023-07-20,Blusa de Frio G,1,88.51,Pix,Renata Monteiro,251.354.278-49,Ana Lima,88.51,7,July,Thursday
+424,2023-12-11,Vestido Floral P,1,89.89,Dinheiro,Hilton Bessa,740.344.713-49,Ana Lima,89.89,12,December,Monday
+25,2023-07-07,Camiseta Básica M,1,45.03,Dinheiro,Wanderson Reis,436.349.578-85,Fernanda Costa,45.03,7,July,Friday
+431,2023-07-22,Jaqueta Couro M,1,275.18,Cartão de Débito,Waldemar Faustino,400.842.710-94,Roberto Dias,275.18,7,July,Saturday
+468,2023-09-30,Sandália Rasteira 36,3,45.08,Cartão de Crédito,Mauricio Sampaio,773.872.148-95,Fernanda Costa,135.24,9,September,Saturday
+248,2023-12-13,Calça Jeans 42,4,122.73,Cartão de Crédito,Viviane Ramos,680.112.805-98,Carlos Souza,490.92,12,December,Wednesday
+117,2023-10-21,Camiseta Básica M,1,46.46,Pix,Paulo Correia,164.005.242-78,Fernanda Costa,46.46,10,October,Saturday
+134,2023-03-09,Calça Jeans 42,1,129.82,Cartão de Débito,Natalia Brito,615.951.484-65,Roberto Dias,129.82,3,March,Thursday
+88,2023-07-03,Boné Aba Curva,1,34.36,Cartão de Crédito,Edmundo Avelar,518.233.749-89,Não identificado,34.36,7,July,Monday
+157,2023-10-22,Meia Kit C/3,1,22.16,Pix,Daniel Vieira,808.412.411-82,Carlos Souza,22.16,10,October,Sunday
+413,2023-05-07,Blusa de Frio G,2,103.68,Pix,Sueli Queiroz,714.345.581-22,Não identificado,207.36,5,May,Sunday
+291,2023-12-12,Jaqueta Couro M,1,302.83,Dinheiro,Ivone Guedes,413.435.240-82,Ana Lima,302.83,12,December,Tuesday
+156,2023-08-09,Meia Kit C/ 3,1,25.97,Dinheiro,Deusdete Matos,964.990.913-34,Fernanda Costa,25.97,8,August,Wednesday
+436,2023-07-11,Meia Kit C/3,1,23.66,Cartão de Crédito,Lucia Ferreira,781.618.495-93,Fernanda Costa,23.66,7,July,Tuesday
+409,2023-11-23,Boné Aba Curva,1,48.57,Pix,Leandro Borges,262.045.053-31,Não identificado,48.57,11,November,Thursday
+281,2023-11-04,Blusa de Frio G,2,91.74,Cartão de Débito,Elaine Tavares,134.332.003-79,Fernanda Costa,183.48,11,November,Saturday
+272,2023-04-04,Camiseta Básica M,2,46.62,Cartão de Débito,Sueli Queiroz,714.345.581-22,Carlos Souza,93.24,4,April,Tuesday
+454,2023-04-19,Sandália Rasteira 36,3,61.57,Cartão de Débito,Vanessa Moreira,473.178.108-01,Carlos Souza,184.71,4,April,Wednesday
+458,2023-12-27,Tênis Casual 38,2,50.99,Cartão de Débito,Patricia Nunes,957.015.430-39,Fernanda Costa,101.98,12,December,Wednesday
+457,2023-10-23,Blusa de Frio G,1,95.92,Cartão de Crédito,Renata Monteiro,251.354.278-49,Não identificado,95.92,10,October,Monday
+168,2023-07-07,Tênis Casual 38,1,155.01,Pix,Marcos Teixeira,098.050.097-88,Roberto Dias,155.01,7,July,Friday
+399,2023-06-19,Calça Jeans 42,1,136.2,Cartão de Débito,Jairo Cavalcante,436.349.578-85,Ana Lima,136.2,6,June,Monday
+336,2023-05-27,Calça Jeans 42,2,119.76,Cartão de Débito,Lucia Ferreira,781.618.495-93,Ana Lima,239.52,5,May,Saturday
+176,2023-08-13,Meia Kit C/3,1,24.7,Cartão de Débito,Thiago Carvalho,117.182.278-24,Roberto Dias,24.7,8,August,Sunday
+297,2023-04-20,Sandália Rasteira 36,2,67.26,Cartão de Débito,Natalia Brito,615.951.484-65,Ana Lima,134.52,4,April,Thursday
+211,2023-04-24,Calça Jeans 42,2,117.14,Cartão de Crédito,Marcos Teixeira,098.050.097-88,Ana Lima,234.28,4,April,Monday
+486,2023-12-23,Tênis Casual 38,1,48.72,Dinheiro,Edmundo Avelar,518.233.749-89,Carlos Souza,48.72,12,December,Saturday
+407,2023-03-12,Vestido Floral P,2,86.57,Cartão de Crédito,Neuza Lago,136.783.777-01,Fernanda Costa,173.14,3,March,Sunday
+420,2023-06-07,Vestido Floral P,4,86.205,Cartão de Débito,Elisa Coutinho,653.755.646-41,Fernanda Costa,344.82,6,June,Wednesday
+119,2023-08-30,Jaqueta Couro M,2,302.14,Pix,Jairo Cavalcante,436.349.578-85,Roberto Dias,604.28,8,August,Wednesday
+418,2023-03-05,Camiseta Básica M,2,52.15,Pix,Patricia Nunes,957.015.430-39,Carlos Souza,104.3,3,March,Sunday
+461,2023-05-31,Vestido Floral P,1,89.9,Pix,Gustavo Araujo,964.990.913-34,Não identificado,89.9,5,May,Wednesday
+322,2023-03-07,Short Jeans 40,1,77.18,Dinheiro,Gloria Siqueira,869.993.867-74,Carlos Souza,77.18,3,March,Tuesday
+446,2023-06-28,Sandália Rasteira 36,2,63.97,Cartão de Débito,Terezinha Barros,777.520.471-16,Ana Lima,127.94,6,June,Wednesday
+11,2023-08-17,Short Jeans 40,1,70.93,Cartão de Débito,Cristiane Assis,966.319.314-91,Carlos Souza,70.93,8,August,Thursday
+331,2023-07-07,Sandália Rasteira 36,1,61.91,Pix,Leandro Borges,262.045.053-31,Não identificado,61.91,7,July,Friday
+480,2023-03-13,Camiseta Básica M,2,47.4,Cartão de Débito,Simone Castro,869.993.867-74,Roberto Dias,94.8,3,March,Monday
+228,2023-02-07,Meia Kit C/3,1,23.03,Cartão de Débito,Lucia Ferreira,781.618.495-93,Ana Lima,23.03,2,February,Tuesday
+216,2023-06-26,Boné Aba Curva,1,51.35,Cartão de Débito,Waldemar Faustino,400.842.710-94,Fernanda Costa,51.35,6,June,Monday
+178,2023-10-21,Vestido Floral P,4,92.93,Dinheiro,Dilma Couto,379.965.075-27,Carlos Souza,371.72,10,October,Saturday
+243,2023-08-15,Jaqueta Couro M,1,304.34,Cartão de Débito,Alexandre Pires,693.406.088-35,Roberto Dias,304.34,8,August,Tuesday
+68,2023-04-25,Camiseta Básica M,2,45.28,Pix,Cristina Duarte,401.965.569-81,Carlos Souza,90.56,4,April,Tuesday
+278,2023-09-17,Vestido Floral P,1,84.47,Pix,Edmundo Avelar,518.233.749-89,Roberto Dias,84.47,9,September,Sunday
+350,2023-10-08,Meia Kit C/3,1,24.060000000000002,Dinheiro,Denise Rezende,163.287.083-17,Roberto Dias,24.060000000000002,10,October,Sunday
+214,2023-11-11,Sandália Rasteira 36,1,69.9,Dinheiro,Hilton Bessa,740.344.713-49,Roberto Dias,69.9,11,November,Saturday
+151,2023-07-04,Camiseta Básica M,1,49.9,Dinheiro,Diego Martins,458.685.014-29,Roberto Dias,49.9,7,July,Tuesday
+12,2023-07-16,Vestido Floral P,1,91.17,Cartão de Crédito,Robson Salles,529.912.419-04,Roberto Dias,91.17,7,July,Sunday
+267,2023-05-25,Camiseta Básica M,2,45.99,Dinheiro,Felipe Ribeiro,148.932.528-80,Fernanda Costa,91.98,5,May,Thursday
+488,2023-03-15,Sandália Rasteira 36,2,61.29,Cartão de Crédito,Viviane Ramos,680.112.805-98,Roberto Dias,122.58,3,March,Wednesday
+78,2023-08-06,Camiseta Básica M,1,49.9,Cartão de Débito,Rosangela Vasconcelos,706.562.729-80,Fernanda Costa,49.9,8,August,Sunday
+255,2023-08-30,Calça Jeans 42,3,127.42,Cartão de Crédito,Paulo Correia,164.005.242-78,Fernanda Costa,382.26,8,August,Wednesday
+76,2023-10-06,Blusa de Frio G,1,90.37,Cartão de Débito,Carolina Fernandes,647.468.723-43,Fernanda Costa,90.37,10,October,Friday
+357,2023-03-06,Jaqueta Couro M,1,261.09,Cartão de Crédito,Renata Monteiro,251.354.278-49,Roberto Dias,261.09,3,March,Monday
+58,2023-01-27,Meia Kit C/3,1,25.97,Pix,Natalia Brito,514.627.048-28,Carlos Souza,25.97,1,January,Friday
+463,2023-11-12,Vestido Floral P,1,87.06,Cartão de Crédito,Leandro Borges,262.045.053-31,Roberto Dias,87.06,11,November,Sunday
+85,2023-05-10,Vestido Floral P,2,85.56,Cartão de Crédito,Amanda Cavalcante,754.330.365-41,Carlos Souza,171.12,5,May,Wednesday
+56,2023-03-19,Boné Aba Curva,4,39.9,Cartão de Débito,Rafael Mendes,764.835.030-56,Carlos Souza,159.6,3,March,Sunday
+40,2023-12-07,Boné Aba Curva,2,38.53,Cartão de Crédito,Everaldo Medeiros,466.889.373-46,Carlos Souza,77.06,12,December,Thursday
+148,2023-03-13,Meia Kit C/3,1,22.86,Cartão de Débito,Camila Pereira,287.101.226-91,Não identificado,22.86,3,March,Monday
+92,2023-11-13,Sandália Rasteira 36,4,50.45,Cartão de Débito,Pedro Costa,351.161.559-40,Roberto Dias,201.8,11,November,Monday
+201,2023-12-11,Boné Aba Curva,4,39.9,Pix,Fernanda Lima,255.341.928-32,Fernanda Costa,159.6,12,December,Monday
+42,2023-12-12,Sandália Rasteira 36,1,51.61,Dinheiro,Ivone Guedes,680.112.805-98,Ana Lima,51.61,12,December,Tuesday
+45,2023-12-05,Blusa de Frio G,1,87.13,Cartão de Débito,Valdinei Faria,905.865.185-06,Não identificado,87.13,12,December,Tuesday
+235,2023-10-11,Camiseta Básica M,3,51.21,Pix,Glaucia Nogueira,278.895.798-68,Fernanda Costa,153.63,10,October,Wednesday
+97,2023-06-30,Camiseta Básica M,2,42.5,Cartão de Crédito,Fernanda Lima,255.341.928-32,Roberto Dias,85.0,6,June,Friday
+415,2023-07-18,Short Jeans 40,2,70.58,Dinheiro,Fernanda Lima,255.341.928-32,Não identificado,141.16,7,July,Tuesday
+355,2023-08-04,Sandália Rasteira 36,1,45.58,Dinheiro,Hilton Bessa,740.344.713-49,Fernanda Costa,45.58,8,August,Friday
+345,2023-07-10,Sandália Rasteira 36,3,73.18,Pix,Cristina Duarte,401.965.569-81,Fernanda Costa,219.54000000000002,7,July,Monday
+410,2023-04-29,Sandália Rasteira 36,1,61.29,Pix,Henrique Dias,107.991.183-84,Roberto Dias,61.29,4,April,Saturday
+189,2023-06-11,Meia Kit C/3,2,22.58,Cartão de Débito,Lucas Freitas,713.315.098-39,Ana Lima,45.16,6,June,Sunday
+318,2023-11-29,Tênis Casual 38,2,153.32,Cartão de Crédito,Felipe Ribeiro,148.932.528-80,Roberto Dias,306.64,11,November,Wednesday
+150,2023-02-13,Jaqueta Couro M,1,301.93,Cartão de Crédito,Vilma Freire,361.832.421-02,Roberto Dias,301.93,2,February,Monday
+450,2023-06-17,Blusa de Frio G,2,95.92,Cartão de Crédito,Rafael Mendes,713.315.098-39,Carlos Souza,191.84,6,June,Saturday
+423,2023-01-29,Sandália Rasteira 36,1,42.9,Dinheiro,Regiane Fonseca,781.618.495-93,Carlos Souza,42.9,1,January,Sunday
+348,2023-10-08,Vestido Floral P,1,83.95,Cartão de Débito,Renata Monteiro,251.354.278-49,Fernanda Costa,83.95,10,October,Sunday
+273,2023-03-09,Jaqueta Couro M,3,289.04,Pix,Rafael Mendes,764.835.030-56,Carlos Souza,867.1200000000001,3,March,Thursday
+490,2023-04-10,Short Jeans 40,1,70.3,Pix,Tatiane Cardoso,543.534.624-75,Roberto Dias,70.3,4,April,Monday
+241,2023-05-22,Tênis Casual 38,1,158.0,Cartão de Crédito,Larissa Campos,301.031.051-83,Roberto Dias,158.0,5,May,Monday
+63,2023-04-03,Meia Kit C/ 3,1,22.35,Pix,Vilma Freire,361.832.421-02,Não identificado,22.35,4,April,Monday
+425,2023-06-03,Tênis Casual 38,2,159.9,Pix,Sergio Macedo,176.936.763-20,Carlos Souza,319.8,6,June,Saturday
+270,2023-08-26,Camiseta Básica M,1,46.67,Cartão de Crédito,Isabela Gomes,514.627.048-28,Ana Lima,46.67,8,August,Saturday
+257,2023-11-14,Camiseta Básica M,1,42.95,Cartão de Crédito,Eliandro Mesquita,529.912.419-04,Carlos Souza,42.95,11,November,Tuesday
+249,2023-01-05,Vestido Floral P,2,92.52,Dinheiro,Carolina Fernandes,449.353.487-40,Roberto Dias,185.04,1,January,Thursday
+232,2023-04-13,Camiseta Básica M,1,50.25,Pix,Pedro Costa,351.161.559-40,Roberto Dias,50.25,4,April,Thursday
+177,2023-11-12,Calça Jeans 42,1,114.79,Cartão de Débito,Beatriz Cunha,208.121.913-61,Fernanda Costa,114.79,11,November,Sunday
+191,2023-04-05,Blusa de Frio G,1,96.27,Dinheiro,Deusdete Matos,001.338.908-38,Não identificado,96.27,4,April,Wednesday
+33,2023-06-15,Camiseta Básica M,1,43.05,Pix,Vanessa Moreira,473.178.108-01,Fernanda Costa,43.05,6,June,Thursday
+28,2023-03-08,Short Jeans 40,2,72.39,Cartão de Débito,Eduardo Pinto,473.829.973-76,Fernanda Costa,144.78,3,March,Wednesday
+142,2023-05-27,Camiseta Básica M,3,43.38,Cartão de Crédito,Jair Andrade,877.694.531-47,Carlos Souza,130.14000000000001,5,May,Saturday
+217,2023-08-30,Short Jeans 40,1,72.17,Cartão de Débito,Mauricio Sampaio,773.872.148-95,Ana Lima,72.17,8,August,Wednesday
+349,2023-07-25,Vestido Floral P,1,78.21,Dinheiro,Elisa Coutinho,653.755.646-41,Carlos Souza,78.21,7,July,Tuesday
+258,2023-06-25,Blusa de Frio G,3,86.53,Dinheiro,Waldemar Faustino,400.842.710-94,Carlos Souza,259.59000000000003,6,June,Sunday
+137,2023-10-16,Meia Kit C/3,1,24.75,Dinheiro,Tatiane Cardoso,543.534.624-75,Carlos Souza,24.75,10,October,Monday
+460,2023-06-09,Sandália Rasteira 36,1,67.44,Dinheiro,Fernanda Lima,255.341.928-32,Roberto Dias,67.44,6,June,Friday
+181,2023-08-23,Sandália Rasteira 36,4,47.35,Dinheiro,Mauricio Sampaio,773.872.148-95,Fernanda Costa,189.4,8,August,Wednesday
+165,2023-12-30,Camiseta Básica M,1,44.85,Cartão de Crédito,Ana Oliveira,637.940.265-42,Não identificado,44.85,12,December,Saturday
+116,2023-03-13,Blusa de Frio G,1,90.25,Dinheiro,Alexandre Pires,693.406.088-35,Fernanda Costa,90.25,3,March,Monday
+390,2023-09-05,Calça Jeans 42,3,118.22,Cartão de Débito,Valdinei Faria,905.865.185-06,Não identificado,354.65999999999997,9,September,Tuesday
+382,2023-04-07,Short Jeans 40,2,79.65,Dinheiro,Lidiane Pacheco,036.690.967-05,Ana Lima,159.3,4,April,Friday
+479,2023-01-21,Boné Aba Curva,1,37.8,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Roberto Dias,37.8,1,January,Saturday
+108,2023-07-22,Meia Kit C/ 3,1,22.89,Pix,Regiane Fonseca,680.443.699-57,Fernanda Costa,22.89,7,July,Saturday
+360,2023-08-28,Meia Kit C/3,3,24.11,Pix,Miriam Deus,685.574.443-13,Não identificado,72.33,8,August,Monday
+298,2023-12-09,Tênis Casual 38,1,152.99,Dinheiro,Elisa Coutinho,653.755.646-41,Roberto Dias,152.99,12,December,Saturday
+386,2023-11-21,Blusa de Frio G,2,89.99,Pix,Alexandre Pires,693.406.088-35,Roberto Dias,179.98,11,November,Tuesday
+378,2023-11-14,Vestido Floral P,1,85.36,Pix,Alexandre Pires,693.406.088-35,Carlos Souza,85.36,11,November,Tuesday
+245,2023-04-09,Boné Aba Curva,3,36.1,Pix,Marcos Teixeira,098.050.097-88,Não identificado,108.30000000000001,4,April,Sunday
+333,2023-04-20,Short Jeans 40,2,77.18,Dinheiro,Sueli Queiroz,714.345.581-22,Ana Lima,154.36,4,April,Thursday
+59,2023-02-11,Short Jeans 40,2,79.24,Cartão de Crédito,Larissa Campos,301.031.051-83,Fernanda Costa,158.48,2,February,Saturday
+123,2023-10-24,Camiseta Básica M,1,52.26,Pix,Carlos Souza,103.413.164-75,Ana Lima,52.26,10,October,Tuesday
+172,2023-03-11,Calça Jeans 42,2,132.24,Pix,Glaucia Nogueira,278.895.798-68,Carlos Souza,264.48,3,March,Saturday
+105,2023-02-01,Jaqueta Couro M,1,312.3,Pix,Lucas Freitas,713.315.098-39,Não identificado,312.3,2,February,Wednesday
+397,2023-11-12,Meia Kit C/ 3,1,21.94,Cartão de Débito,Ailton Bastos,699.016.272-04,Ana Lima,21.94,11,November,Sunday
+364,2023-03-25,Jaqueta Couro M,2,302.9,Pix,Glaucia Nogueira,278.895.798-68,Fernanda Costa,605.8,3,March,Saturday
+288,2023-09-15,Short Jeans 40,1,79.26,Cartão de Débito,Alexandre Pires,693.406.088-35,Não identificado,79.26,9,September,Friday
+35,2023-03-09,Meia Kit C/3,2,25.64,Dinheiro,Sueli Queiroz,714.345.581-22,Não identificado,51.28,3,March,Thursday
+287,2023-12-26,Short Jeans 40,1,72.56,Dinheiro,Cristina Duarte,401.965.569-81,Carlos Souza,72.56,12,December,Tuesday
+332,2023-05-10,Vestido Floral P,3,89.86,Pix,Terezinha Barros,777.520.471-16,Carlos Souza,269.58,5,May,Wednesday
+90,2023-05-21,Calça Jeans 42,2,125.5,Cartão de Crédito,Amanda Cavalcante,754.330.365-41,Não identificado,251.0,5,May,Sunday
+498,2023-05-07,Tênis Casual 38,1,136.08,Cartão de Crédito,Rosangela Vasconcelos,706.562.729-80,Ana Lima,136.08,5,May,Sunday
+21,2023-11-07,Jaqueta Couro M,1,268.05,Cartão de Crédito,Rosane Leite,716.572.628-49,Não identificado,268.05,11,November,Tuesday
+317,2023-09-07,Vestido Floral P,1,83.39,Pix,Juliana Rocha,413.953.767-24,Ana Lima,83.39,9,September,Thursday
+239,2023-09-25,Meia Kit C/3,1,25.97,Cartão de Crédito,Lidiane Pacheco,036.690.967-05,Ana Lima,25.97,9,September,Monday
+188,2023-11-12,Sandália Rasteira 36,1,67.66,Dinheiro,Ailton Bastos,699.016.272-04,Fernanda Costa,67.66,11,November,Sunday
+197,2023-05-18,Jaqueta Couro M,2,258.75,Cartão de Débito,Thiago Carvalho,117.182.278-24,Não identificado,517.5,5,May,Thursday
+27,2023-03-01,Calça Jeans 42,1,113.94,Pix,Carlos Souza,103.413.164-75,Fernanda Costa,113.94,3,March,Wednesday
+455,2023-01-06,Camiseta Básica M,4,43.78,Cartão de Débito,Ana Oliveira,637.940.265-42,Roberto Dias,175.12,1,January,Friday
+187,2023-03-10,Sandália Rasteira 36,2,49.62,Cartão de Débito,Larissa Campos,400.842.710-94,Carlos Souza,99.24,3,March,Friday
+346,2023-04-24,Jaqueta Couro M,3,284.15999999999997,Dinheiro,Terezinha Barros,777.520.471-16,Roberto Dias,852.4799999999999,4,April,Monday
+466,2023-03-01,Camiseta Básica M,3,44.75,Cartão de Débito,Gustavo Araujo,651.333.872-62,Roberto Dias,134.25,3,March,Wednesday
+485,2023-07-10,Calça Jeans 42,1,113.55,Cartão de Crédito,Alexandre Pires,693.406.088-35,Roberto Dias,113.55,7,July,Monday
+264,2023-09-16,Calça Jeans 42,3,124.31,Cartão de Crédito,Thiago Carvalho,117.182.278-24,Não identificado,372.93,9,September,Saturday
+57,2023-05-07,Jaqueta Couro M,1,278.15,Cartão de Débito,Ailton Bastos,699.016.272-04,Fernanda Costa,278.15,5,May,Sunday
+344,2023-03-21,Jaqueta Couro M,4,255.31,Pix,Felipe Ribeiro,148.932.528-80,Ana Lima,1021.24,3,March,Tuesday
+83,2023-10-15,Camiseta Básica M,2,52.38,Cartão de Crédito,Paulo Correia,164.005.242-78,Ana Lima,104.76,10,October,Sunday
+213,2023-10-21,Blusa de Frio G,1,90.41,Pix,Wanderson Reis,727.743.487-34,Carlos Souza,90.41,10,October,Saturday
+277,2023-11-26,Boné Aba Curva,1,45.61,Dinheiro,Aline Nascimento,311.656.670-10,Fernanda Costa,45.61,11,November,Sunday
+437,2023-09-26,Vestido Floral P,3,78.8,Cartão de Débito,Alexandre Pires,693.406.088-35,Ana Lima,236.39999999999998,9,September,Tuesday
+304,2023-01-24,Jaqueta Couro M,2,271.8,Pix,Bruno Alves,238.849.696-53,Roberto Dias,543.6,1,January,Tuesday
+34,2023-10-31,Camiseta Básica M,2,47.62,Pix,Elisa Coutinho,653.755.646-41,Ana Lima,95.24,10,October,Tuesday
+341,2023-04-09,Camiseta Básica M,1,47.57,Cartão de Crédito,Paulo Correia,543.534.624-75,Fernanda Costa,47.57,4,April,Sunday
