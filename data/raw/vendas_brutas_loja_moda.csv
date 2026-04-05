@@ -1,0 +1,521 @@
+﻿id_venda,data_venda,produto,quantidade,preco_unitario,forma_pagamento,nome_cliente,cpf_cliente,vendedor
+438,"July 18, 2023",Jaqueta Couro M,2,274.91,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Ana Lima
+326,"February 19, 2023",calça jeans 42,1,112.84,Cartão de Débito,Eliandro Mesquita,529.912.419-04,Carlos Souza
+131,29/07/2023,Calça Jeans 42,2,128.8,Débito,Amanda Cavalcante,754.330.365-41,Roberto Dias
+24,"September 04, 2023",Boné aba curva,4,41.63,Cartão de Débito,Rodrigo Figueiredo,563.421.607-33,Roberto Dias
+445,20-07-2023,calça jeans 42,1,119.55,Pix,Natalia Brito,615.951.484-65,Carlos Souza
+251,2023-11-08,vestido floral p,1,81.39,Cartão de Débito,Amanda Cavalcante,754.330.365-41,Fernanda Costa
+53,18/11/23,Tênis Casual 38,2,147.17,cartão de crédito,Eduardo Pinto,473.829.973-76,Fernanda Costa
+9,05-09-2023,BLUSA DE FRIO G,1,99.83,Cartao de Credito,DANIEL VIEIRA,808.412.411-82,Ana Lima
+354,16-06-2023,Sandália rasteira 36,1,68.25,Cartao de Credito,Dilma Couto,379.965.075-27,Carlos Souza
+309,07-02-2023,vestido floral p,4,88.48,CARTÃO CRÉDITO,Juliana Rocha,413.953.767-24,Ana Lima
+311,28/03/23,Camiseta Básica M,1,43.76,cartao de debito,Cristina Duarte,401.965.569-81,Fernanda Costa
+193,18/11/2023,Jaqueta Couro M,2,264.07,cartão de crédito,Jair Andrade,877.694.531-47,Fernanda Costa
+247,2023-03-25,meia kit c/ 3,1,24.01,CARTÃO CRÉDITO,Paulo Correia,164.005.242-78,Carlos Souza
+99,"August 19, 2023",JAQUETA COURO M,1,278.54,Débito,Edmundo Avelar,518.233.749-89,Fernanda Costa
+41,"April 25, 2023",Meia Kit C/3,1,23.3,PIX,Felipe Ribeiro,148.932.528-80,
+279,02-03-2023,BLUSA DE FRIO G,1,"99,9",pix,Ana Oliveira,637.940.265-42,
+236,2023-07-22,Boné Aba Curva,2,34.87,Débito,Lucia Ferreira,781.618.495-93,Roberto Dias
+269,09-12-2023,BLUSA DE FRIO G,2,97.79,Pix,Eduardo Pinto,473.829.973-76,Fernanda Costa
+361,26-09-2023,sandalia rasteira 36,2,46.07,Dinheiro,Jairo Cavalcante,436.349.578-85,Carlos Souza
+195,24/12/2023,Blusa de Frio G,2,-99.9,Cartão de Débito,Renata Monteiro,669.784.801-84,Carlos Souza
+443,20/06/23,meia kit c/ 3,4,23.48,Cartao de Credito,Marcos Teixeira,098.050.097-88,Ana Lima
+130,17/11/23,Sandália rasteira 36,1,64.74,PIX,EVERALDO MEDEIROS,466.889.373-46,Fernanda Costa
+494,2023-02-07,BLUSA DE FRIO G,3,92.65,Cartao de Credito,Josenildo Cruz,719.022.941-31,Roberto Dias
+129,2023-10-23,Sandália Rasteira 36,1,63.26,PIX,Alexandre Pires,693.406.088-35,
+411,05-04-2023,Meia Kit C/3,1,0,Débito,GLAUCIA NOGUEIRA,278.895.798-68,Ana Lima
+139,28/03/2023,jaqueta couro m,3,293.41,Cartão de Crédito,Mauricio Sampaio,773.872.148-95,
+285,18/09/23,JAQUETA COURO M,1,291.27,dinheiro,Vanessa Moreira,473.178.108-01,
+233,16-02-2023,sandalia rasteira 36,1,0,Pix,Miriam Deus,685.574.443-13,Roberto Dias
+338,14-10-2023,bone aba curva,2,51.69,pix,Josenildo Cruz,719.022.941-31,Ana Lima
+470,04/02/2023,Camiseta Básica M,2,42.75,pix,Robson Salles,148.932.528-80,Ana Lima
+465,11-09-2023,JAQUETA COURO M,2,298.96,dinheiro,Robson Salles,362.316.658-76,Ana Lima
+362,06-01-2023,Camiseta Básica M,1,,Pix,Osmar Pinheiro,354.549.480-83,Roberto Dias
+225,24-04-2023,sandalia rasteira 36,1,45.6,Cartão de Débito,Waldemar Faustino,400.842.710-94,Ana Lima
+308,"April 05, 2023",Vestido Floral P,2,91.72,PIX,Hilton Bessa,740.344.713-49,Roberto Dias
+138,18/06/23,Vestido Floral P,3,90.14,Pix,Denise Rezende,163.287.083-17,Roberto Dias
+64,18/08/23,Vestido Floral P,3,88.61,pix,Jairo Cavalcante,436.349.578-85,Roberto Dias
+403,"May 07, 2023",bone aba curva,1,45.96,Dinheiro,Neuza Lago,136.783.777-01,Carlos Souza
+215,03/08/23,Calça Jeans  42,1,128.95,Pix,Neuza Lago,136.783.777-01,
+167,2023-08-19,Short jeans 40,2,68.91,cartão de crédito,Everaldo Medeiros,466.889.373-46,
+238,"February 04, 2023",CAMISETA BASICA M,1,42.54,cartao de debito,Glaucia Nogueira,278.895.798-68,
+417,2023-07-21,Blusa de Frio G,2,94.0,Dinheiro,Alexandre Pires,693.406.088-35,Fernanda Costa
+347,2023-08-23,Camiseta básica M,1,45.66,pix,Osmar Pinheiro,354.549.480-83,Fernanda Costa
+334,16/03/23,BLUSA DE FRIO G,1,"99,9",Cartão de Crédito,DEUSDETE MATOS,964.990.913-34,Roberto Dias
+400,26/10/2023,Boné Aba Curva,1,36.08,Pix,NEUZA LAGO,651.333.872-62,Ana Lima
+320,2023-01-04,Short Jeans 40,1,70.43,pix,Lucas Freitas,713.315.098-39,Ana Lima
+110,23/11/23,Vestido Floral P,2,93.76,Cartao de Credito,Fernanda Lima,255.341.928-32,Roberto Dias
+221,01/04/23,bone aba curva,2,51.0,cartão de crédito,Alexandre Pires,301.031.051-83,Fernanda Costa
+293,29/10/2023,short jeans 40,1,69.11,Cartao de Credito,Conceicao Matos,123.281.206-79,
+380,14-04-2023,Camiseta básica M,2,47.3,pix,VALDINEI FARIA,905.865.185-06,
+433,03/06/2023,Short jeans 40,1,82.56,Débito,CRISTINA DUARTE,401.965.569-81,Fernanda Costa
+472,26-02-2023,Jaqueta Couro M,2,271.49,DINHEIRO,Ricardo Lopes,326.773.602-60,Fernanda Costa
+296,2023-12-29,Tênis Casual 38,1,153.09,cartão de crédito,Neuza Lago,136.783.777-01,Fernanda Costa
+369,09/05/2023,meia kit c/ 3,2,25.01,Pix,DENISE REZENDE,163.287.083-17,Carlos Souza
+51,2023-09-19,Calça Jeans  42,1,117.07,Cartao de Credito,Regiane Fonseca,680.443.699-57,
+222,2023-10-28,Camiseta básica M,1,50.32,Pix,LEONARDO AZEVEDO,648.236.629-94,Fernanda Costa
+49,2023-02-28,tênis casual 38,1,147.49,DINHEIRO,Ana Oliveira,637.940.265-42,Ana Lima
+209,2023-01-21,Calça Jeans  42,1,0,Dinheiro,Alexandre Pires,693.406.088-35,Fernanda Costa
+314,19-01-2023,short jeans 40,2,71.48,Débito,Paulo Correia,164.005.242-78,
+196,2023-01-07,Jaqueta Couro M,1,298.15,Cartao de Credito,Lucas Freitas,713.315.098-39,Fernanda Costa
+120,2023-12-27,Tenis Casual 38,2,44.43,PIX,BRUNO ALVES,238.849.696-53,Carlos Souza
+199,"September 18, 2023",Camiseta Básica M,1,51.6,Cartao de Credito,CARLOS SOUZA,103.413.164-75,Ana Lima
+118,"November 24, 2023",bone aba curva,1,52.28,dinheiro,Rodrigo Figueiredo,563.421.607-33,Roberto Dias
+242,10-07-2023,Camiseta Básica M,1,43.4,CARTÃO CRÉDITO,Leonardo Azevedo,648.236.629-94,Carlos Souza
+87,03-09-2023,Short Jeans 40,4,75.11,Cartão de Débito,Robson Salles,362.316.658-76,
+61,05-07-2023,Camiseta Básica M,2,52.39,Cartao de Credito,Elaine Tavares,134.332.003-79,Ana Lima
+192,30-08-2023,Boné aba curva,1,41.49,DINHEIRO,BRUNO ALVES,413.953.767-24,
+66,11/10/23,bone aba curva,1,46.9,PIX,Felipe Ribeiro,148.932.528-80,Carlos Souza
+173,"October 17, 2023",Camiseta Básica M,1,49.83,Débito,Tatiane Cardoso,543.534.624-75,Roberto Dias
+162,"August 09, 2023",Camiseta básica M,1,46.86,DINHEIRO,João Santos,543.534.624-75,Roberto Dias
+26,12/12/23,Vestido Floral P,2,84.76,cartao de debito,Eliandro Mesquita,413.435.240-82,Fernanda Costa
+6,2023-07-31,camiseta básica m,1,-49.9,Dinheiro,Simone Castro,647.468.723-43,
+429,2023-01-13,blusa de frio G,1,0,dinheiro,Thiago Carvalho,117.182.278-24,
+286,03-08-2023,Sandália Rasteira 36,1,65.19,cartao de debito,Daniel Vieira,808.412.411-82,
+444,19-02-2023,blusa de frio G,1,102.12,pix,Fabio Melo,458.685.014-29,Fernanda Costa
+104,14/07/23,Calça Jeans 42,1,115.71,PIX,Daniel Vieira,957.015.430-39,
+159,"March 13, 2023",sandalia rasteira 36,2,"49,9",pix,Amanda Cavalcante,754.330.365-41,Roberto Dias
+55,"August 25, 2023",Short jeans 40,3,70.92,pix,Edmundo Avelar,518.233.749-89,Roberto Dias
+253,"June 01, 2023",Vestido floral P,4,82.59,cartao de debito,Lidiane Pacheco,036.690.967-05,Carlos Souza
+302,18-12-2023,Calça Jeans 42,1,124.91,pix,Pedro Costa,351.161.559-40,Carlos Souza
+128,23-01-2023,tênis casual 38,1,145.17,cartao de debito,Ailton Bastos,699.016.272-04,
+428,11/11/2023,Short jeans 40,1,79.24,CARTÃO CRÉDITO,Rosane Leite,716.572.628-49,Ana Lima
+447,30/09/23,blusa de frio G,1,86.23,CARTÃO CRÉDITO,Sueli Queiroz,714.345.581-22,
+30,2023-05-22,Calça Jeans  42,1,135.64,Cartão de Crédito,Thiago Carvalho,117.182.278-24,Fernanda Costa
+19,15/08/2023,Boné aba curva,2,36.33,DINHEIRO,Regiane Fonseca,680.443.699-57,Roberto Dias
+210,16/01/2023,Boné aba curva,1,40.25,cartão de crédito,Sueli Queiroz,714.345.581-22,Ana Lima
+184,21/05/23,CAMISETA BASICA M,1,45.46,cartao de debito,Elaine Tavares,134.332.003-79,Carlos Souza
+16,2023-02-20,JAQUETA COURO M,1,272.51,dinheiro,Isabela Gomes,514.627.048-28,Roberto Dias
+363,2023-01-05,JAQUETA COURO M,1,307.83,DINHEIRO,Rosangela Vasconcelos,706.562.729-80,Roberto Dias
+39,13-02-2023,CAMISETA BASICA M,1,45.7,cartão de crédito,Rosangela Vasconcelos,176.936.763-20,Roberto Dias
+244,2023-07-11,meia kit c/ 3,1,25.4,pix,Rafael Mendes,764.835.030-56,Ana Lima
+44,16/06/23,JAQUETA COURO M,2,0,cartão de crédito,Waldemar Faustino,400.842.710-94,Fernanda Costa
+398,28/01/2023,Vestido Floral P,1,78.42,Pix,Vilma Freire,361.832.421-02,Roberto Dias
+305,05-12-2023,Camiseta Básica M,2,45.36,Cartão de Débito,Eliandro Mesquita,529.912.419-04,Carlos Souza
+396,17-12-2023,bone aba curva,1,42.66,Dinheiro,Terezinha Barros,362.316.658-76,Carlos Souza
+497,2023-04-28,CAMISETA BASICA M,1,45.2,cartao de debito,Robson Salles,362.316.658-76,Roberto Dias
+261,2023-04-08,Camiseta Básica M,1,46.24,pix,Maria Silva,104.332.181-96,Fernanda Costa
+377,21-03-2023,blusa de frio G,2,99.57,Cartão de Crédito,Rodrigo Figueiredo,563.421.607-33,
+393,11-12-2023,jaqueta couro m,1,302.08,Cartao de Credito,Wanderson Reis,727.743.487-34,Carlos Souza
+237,27-03-2023,Calça Jeans  42,1,126.71,pix,Simone Castro,647.468.723-43,Fernanda Costa
+62,2023-02-21,Short Jeans 40,1,70.01,DINHEIRO,Miriam Deus,685.574.443-13,Carlos Souza
+325,"November 02, 2023",Short jeans 40,1,75.97,DINHEIRO,Juliana Rocha,413.953.767-24,Carlos Souza
+250,"April 22, 2023",blusa de frio G,1,98.15,dinheiro,Amanda Cavalcante,754.330.365-41,
+471,2023-11-01,Sandália rasteira 36,1,61.23,Cartão de Débito,Andre Rodrigues,939.909.169-98,
+10,2023-08-01,Tênis Casual 38,2,154.46,Cartão de Débito,JAIR ANDRADE,877.694.531-47,Roberto Dias
+483,30/03/23,sandalia rasteira 36,2,43.05,cartão de crédito,Fernanda Lima,255.341.928-32,Ana Lima
+54,20/08/23,camiseta básica m,4,"49,9",pix,Rafael Mendes,764.835.030-56,
+169,28-02-2023,Tenis Casual 38,2,48.55,cartão de crédito,Mauricio Sampaio,773.872.148-95,Carlos Souza
+103,"November 02, 2023",BLUSA DE FRIO G,1,96.57,Cartao de Credito,Paulo Correia,164.005.242-78,
+481,2023-01-19,Tênis Casual 38,1,152.64,Cartão de Débito,Rafael Mendes,764.835.030-56,
+493,2023-12-13,Boné Aba Curva,1,37.21,CARTÃO CRÉDITO,ALEXANDRE PIRES,693.406.088-35,Roberto Dias
+414,"September 26, 2023",sandalia rasteira 36,1,47.59,DINHEIRO,Lucia Ferreira,781.618.495-93,Ana Lima
+396,17-12-2023,bone aba curva,1,42.66,Dinheiro,Terezinha Barros,362.316.658-76,Carlos Souza
+69,18/08/23,Sandália Rasteira 36,1,72.56,pix,MARIA SILVA,104.332.181-96,
+109,2023-04-20,Calça Jeans  42,1,116.63,Cartão de Crédito,Jairo Cavalcante,436.349.578-85,
+207,12-06-2023,blusa de frio G,2,87.03,Pix,Viviane Ramos,680.112.805-98,Roberto Dias
+405,19/03/23,Tênis Casual 38,1,155.5,Cartão de Débito,WANDERSON REIS,727.743.487-34,Carlos Souza
+89,"June 05, 2023",calça jeans 42,3,132.39,Dinheiro,Aline Nascimento,311.656.670-10,Carlos Souza
+358,2023-01-28,Camiseta Básica M,2,"49,9",DINHEIRO,Wanderson Reis,727.743.487-34,Fernanda Costa
+259,2023-11-21,camiseta básica m,1,50.25,Débito,Maria Silva,104.332.181-96,Ana Lima
+115,2023-12-12,JAQUETA COURO M,2,260.12,Cartão de Débito,Simone Castro,647.468.723-43,Ana Lima
+102,18/09/2023,short jeans 40,1,83.57,pix,Valdinei Faria,905.865.185-06,Fernanda Costa
+141,"January 31, 2023",Sandália Rasteira 36,1,59.65,cartao de debito,Hilton Bessa,740.344.713-49,Fernanda Costa
+473,24/03/23,JAQUETA COURO M,1,270.4,Dinheiro,BRUNO ALVES,238.849.696-53,Carlos Souza
+282,25/09/2023,Tenis Casual 38,2,44.95,CARTÃO CRÉDITO,Felipe Ribeiro,651.333.872-62,Carlos Souza
+351,19/11/2023,Short Jeans 40,1,74.28,cartao de debito,Jairo Cavalcante,436.349.578-85,Carlos Souza
+153,31-07-2023,tênis casual 38,1,157.83,Cartao de Credito,Camila Pereira,287.101.226-91,Carlos Souza
+462,2023-10-21,camiseta básica m,1,50.91,Dinheiro,Rodrigo Figueiredo,563.421.607-33,Fernanda Costa
+71,"November 02, 2023",short jeans 40,1,,dinheiro,Ana Oliveira,637.940.265-42,Carlos Souza
+324,29/03/23,Vestido Floral P,1,81.17,cartao de debito,Robson Salles,362.316.658-76,Fernanda Costa
+379,25/05/2023,Tênis Casual 38,1,"159,9",Cartao de Credito,ROBSON SALLES,362.316.658-76,Carlos Souza
+208,"July 28, 2023",Camiseta básica M,1,43.32,Débito,Jairo Cavalcante,436.349.578-85,Fernanda Costa
+125,16/12/2023,Boné aba curva,4,34.93,CARTÃO CRÉDITO,Miriam Deus,685.574.443-13,Ana Lima
+179,08/05/23,Calça Jeans 42,1,117.4,DINHEIRO,Alexandre Pires,693.406.088-35,Roberto Dias
+73,"January 23, 2023",sandalia rasteira 36,2,49.73,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Ana Lima
+133,2023-10-02,jaqueta couro m,3,300.6,cartao de debito,Simone Castro,163.287.083-17,
+231,26/01/23,tênis casual 38,1,"159,9",Cartão de Débito,Terezinha Barros,777.520.471-16,
+4,"February 16, 2023",BLUSA DE FRIO G,1,94.81,Cartão de Débito,Regiane Fonseca,680.443.699-57,Roberto Dias
+37,20-02-2023,Meia Kit c/3,2,23.41,CARTÃO CRÉDITO,Patricia Nunes,957.015.430-39,Roberto Dias
+91,22/06/23,meia kit c/ 3,3,22.48,CARTÃO CRÉDITO,WALDEMAR FAUSTINO,351.161.559-40,
+467,15/05/2023,Calça Jeans 42,3,128.04,PIX,NEUZA LAGO,136.783.777-01,Ana Lima
+419,09/10/23,tênis casual 38,2,163.7,Cartao de Credito,Carlos Souza,103.413.164-75,Ana Lima
+160,"July 25, 2023",short jeans 40,1,79.13,Débito,Jair Andrade,877.694.531-47,
+271,05-01-2023,Meia Kit C/3,1,25.54,cartão de crédito,Lucas Freitas,713.315.098-39,Fernanda Costa
+464,2023-03-31,Vestido floral P,1,"89,9",Cartao de Credito,Renata Monteiro,251.354.278-49,
+81,06/03/23,CAMISETA BASICA M,1,49.19,dinheiro,Renata Monteiro,251.354.278-49,Fernanda Costa
+388,2023-01-12,JAQUETA COURO M,1,"299,9",Pix,Leandro Borges,262.045.053-31,Fernanda Costa
+140,08-02-2023,Boné aba curva,1,33.99,PIX,Fernanda Lima,255.341.928-32,Roberto Dias
+292,18-07-2023,Blusa de Frio G,2,102.27,Pix,CRISTINA DUARTE,401.965.569-81,Carlos Souza
+373,10-07-2023,JAQUETA COURO M,1,300.47,Cartão de Crédito,Diego Martins,669.784.801-84,Ana Lima
+47,17/06/2023,Camiseta básica M,1,47.99,Cartão de Débito,Maria Silva,104.332.181-96,Fernanda Costa
+50,"August 12, 2023",Short jeans 40,1,70.6,PIX,Sueli Queiroz,714.345.581-22,Ana Lima
+175,22/04/2023,Blusa de Frio G,3,0,Dinheiro,Felipe Ribeiro,148.932.528-80,Fernanda Costa
+20,02/05/2023,tênis casual 38,1,148.57,Cartão de Crédito,Terezinha Barros,777.520.471-16,
+136,20/09/2023,Boné Aba Curva,2,35.54,dinheiro,Rosane Leite,716.572.628-49,Roberto Dias
+383,"September 23, 2023",Camiseta básica M,1,48.66,Cartao de Credito,Isabela Gomes,514.627.048-28,
+439,04/12/2023,jaqueta couro m,1,286.84,Débito,Fabio Melo,458.685.014-29,Roberto Dias
+306,13/12/23,Boné Aba Curva,3,34.25,pix,SERGIO MACEDO,176.936.763-20,
+205,2023-02-17,camiseta básica m,1,43.26,cartão de crédito,Henrique Dias,107.991.183-84,
+475,13/05/23,Camiseta básica M,1,48.93,Cartão de Crédito,Lucia Ferreira,777.520.471-16,Ana Lima
+186,05/08/23,Jaqueta Couro M,2,276.96,Dinheiro,Mariana Barbosa,896.383.465-78,Carlos Souza
+391,"February 10, 2023",JAQUETA COURO M,1,262.15,Débito,Rafael Mendes,764.835.030-56,Carlos Souza
+14,29-07-2023,Meia Kit C/3,2,25.41,PIX,Eduardo Pinto,164.005.242-78,Roberto Dias
+200,"December 02, 2023",Blusa de Frio G,1,"99,9",dinheiro,Tatiane Cardoso,543.534.624-75,Ana Lima
+432,"January 19, 2023",sandalia rasteira 36,1,50.24,DINHEIRO,Lucas Freitas,713.315.098-39,Ana Lima
+492,2023-10-03,calça jeans 42,3,125.81,dinheiro,Aline Nascimento,311.656.670-10,Roberto Dias
+323,27/07/23,Sandália Rasteira 36,2,62.44,pix,Waldemar Faustino,400.842.710-94,Roberto Dias
+82,09/02/23,Short jeans 40,1,79.67,Pix,Lucas Freitas,713.315.098-39,
+38,21/08/2023,tênis casual 38,1,157.88,Pix,Lidiane Pacheco,036.690.967-05,Ana Lima
+15,17/11/23,Jaqueta Couro M,1,310.15,CARTÃO CRÉDITO,VALDINEI FARIA,905.865.185-06,Ana Lima
+474,05/02/23,BLUSA DE FRIO G,1,89.28,Cartão de Débito,Marcos Teixeira,098.050.097-88,Ana Lima
+434,18-03-2023,Vestido floral P,1,79.78,cartão de crédito,Pedro Costa,351.161.559-40,Fernanda Costa
+371,24-09-2023,Camiseta básica M,1,52.13,CARTÃO CRÉDITO,Carolina Fernandes,449.353.487-40,Roberto Dias
+5,19/01/23,blusa de frio G,1,104.66,Cartão de Débito,Diego Martins,669.784.801-84,
+441,19/05/2023,Calça Jeans 42,3,111.73,Cartão de Crédito,Priscila Andrade,586.923.226-02,Roberto Dias
+132,15/10/2023,Blusa de Frio G,1,97.84,Pix,LIDIANE PACHECO,036.690.967-05,Fernanda Costa
+96,"March 23, 2023",BLUSA DE FRIO G,1,94.05,CARTÃO CRÉDITO,Dilma Couto,379.965.075-27,Carlos Souza
+451,30/09/23,vestido floral p,3,90.7,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+254,23/11/2023,Meia Kit c/3,2,25.53,Cartao de Credito,Eliandro Mesquita,529.912.419-04,Fernanda Costa
+395,14-10-2023,Calça Jeans  42,4,116.71,Dinheiro,Valdinei Faria,905.865.185-06,Roberto Dias
+161,23-11-2023,bone aba curva,1,48.04,Cartão de Débito,Camila Pereira,287.101.226-91,Roberto Dias
+67,16-02-2023,Boné aba curva,1,36.9,DINHEIRO,Tatiane Cardoso,543.534.624-75,Ana Lima
+112,31/03/2023,Blusa de Frio G,2,88.64,cartao de debito,VANESSA MOREIRA,473.178.108-01,Fernanda Costa
+145,"February 12, 2023",BLUSA DE FRIO G,4,103.28,CARTÃO CRÉDITO,Rosangela Vasconcelos,706.562.729-80,Carlos Souza
+124,29/07/2023,calça jeans 42,1,120.35,DINHEIRO,Lucas Freitas,713.315.098-39,Roberto Dias
+319,"July 07, 2023",Short jeans 40,1,81.78,Pix,Bruno Alves,238.849.696-53,Roberto Dias
+93,21/08/23,CAMISETA BASICA M,1,51.01,dinheiro,Rafael Mendes,764.835.030-56,Fernanda Costa
+154,"June 04, 2023",Vestido floral P,1,82.91,CARTÃO CRÉDITO,Rosane Leite,716.572.628-49,Roberto Dias
+321,01/08/2023,Meia Kit c/3,1,25.32,Cartão de Crédito,Natalia Brito,615.951.484-65,Carlos Souza
+442,24-02-2023,tênis casual 38,1,158.28,pix,Fernanda Lima,727.743.487-34,Fernanda Costa
+487,2023-09-07,CAMISETA BASICA M,1,50.32,Pix,Maria Silva,669.784.801-84,Carlos Souza
+31,"March 06, 2023",Meia Kit c/3,1,22.33,Débito,Waldemar Faustino,400.842.710-94,Carlos Souza
+8,26/04/23,meia kit c/ 3,2,24.73,PIX,PATRICIA NUNES,957.015.430-39,Fernanda Costa
+482,24/10/2023,Vestido Floral P,3,80.78,Cartão de Débito,Bruno Alves,301.031.051-83,Carlos Souza
+166,2023-06-19,short jeans 40,1,74.82,Cartão de Crédito,Everaldo Medeiros,466.889.373-46,
+387,01-01-2023,jaqueta couro m,4,272.93,CARTÃO CRÉDITO,Lucia Ferreira,781.618.495-93,Carlos Souza
+224,"April 01, 2023",jaqueta couro m,4,256.86,pix,Maria Silva,104.332.181-96,Fernanda Costa
+46,27-09-2023,Sandália rasteira 36,1,70.14,Débito,Fabio Melo,727.743.487-34,Fernanda Costa
+238,"February 04, 2023",CAMISETA BASICA M,1,42.54,cartao de debito,Glaucia Nogueira,278.895.798-68,
+456,23/12/2023,Sandália Rasteira 36,2,62.57,DINHEIRO,Everaldo Medeiros,466.889.373-46,
+171,22/11/23,short jeans 40,1,68.77,dinheiro,Vanessa Moreira,473.178.108-01,Ana Lima
+300,23/01/2023,vestido floral p,1,90.32,PIX,SIMONE CASTRO,647.468.723-43,Ana Lima
+32,"January 02, 2023",Vestido floral P,1,78.78,dinheiro,Larissa Campos,301.031.051-83,Carlos Souza
+121,2023-06-17,Meia Kit C/3,1,23.38,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Roberto Dias
+284,19/08/23,blusa de frio G,1,85.89,DINHEIRO,GLÓRIA SIQUEIRA,869.993.867-74,
+452,"June 26, 2023",CAMISETA BASICA M,1,47.89,Cartão de Crédito,Josenildo Cruz,379.965.075-27,Ana Lima
+77,24/07/2023,jaqueta couro m,1,310.36,PIX,Ailton Bastos,699.016.272-04,Fernanda Costa
+381,26/01/2023,Tenis Casual 38,3,47.32,cartão de crédito,TATIANE CARDOSO,543.534.624-75,Roberto Dias
+430,06-01-2023,sandalia rasteira 36,1,50.07,cartão de crédito,Marcos Teixeira,098.050.097-88,Fernanda Costa
+1,07/06/23,Sandália Rasteira 36,1,63.22,PIX,Waldemar Faustino,400.842.710-94,Roberto Dias
+203,11-04-2023,jaqueta couro m,1,275.69,cartao de debito,Miriam Deus,685.574.443-13,Ana Lima
+335,"November 11, 2023",sandalia rasteira 36,2,47.35,Cartão de Crédito,Osmar Pinheiro,354.549.480-83,Carlos Souza
+313,2023-04-11,Vestido floral P,2,86.82,Débito,Bruno Alves,238.849.696-53,
+240,2023-02-21,Meia Kit c/3,1,24.01,Pix,Priscila Andrade,586.923.226-02,Ana Lima
+337,14-02-2023,Vestido floral P,1,77.65,cartão de crédito,Sueli Queiroz,714.345.581-22,
+144,2023-12-17,meia kit c/ 3,1,23.92,Cartão de Crédito,Camila Pereira,287.101.226-91,Ana Lima
+127,2023-12-05,Blusa de Frio G,1,85.59,pix,Hilton Bessa,740.344.713-49,Ana Lima
+220,31-03-2023,BLUSA DE FRIO G,1,97.19,Débito,Lucia Ferreira,107.991.183-84,Carlos Souza
+405,19/03/23,Tênis Casual 38,1,155.5,Cartão de Débito,WANDERSON REIS,727.743.487-34,Carlos Souza
+266,04/08/2023,Sandália rasteira 36,1,60.88,cartao de debito,Isabela Gomes,514.627.048-28,
+448,"August 11, 2023",Short jeans 40,1,77.09,Pix,Leonardo Azevedo,648.236.629-94,Ana Lima
+212,2023-04-12,Boné Aba Curva,2,34.89,Pix,AILTON BASTOS,699.016.272-04,Ana Lima
+489,15-02-2023,sandalia rasteira 36,1,47.71,cartão de crédito,AMANDA CAVALCANTE,754.330.365-41,
+406,2023-05-04,Short jeans 40,1,78.34,pix,Eduardo Pinto,473.829.973-76,
+126,02/06/2023,blusa de frio G,1,88.68,cartao de debito,Miriam Deus,685.574.443-13,Ana Lima
+427,2023-09-05,jaqueta couro m,2,286.43,pix,Conceicao Matos,123.281.206-79,Fernanda Costa
+329,12/02/2023,vestido floral p,2,86.81,cartão de crédito,Deusdete Matos,964.990.913-34,
+98,"May 16, 2023",jaqueta couro m,1,288.1,cartão de crédito,Elaine Tavares,134.332.003-79,Roberto Dias
+416,2023-12-20,Short Jeans 40,1,77.27,cartao de debito,Larissa Campos,301.031.051-83,
+301,18/04/2023,Sandália rasteira 36,1,73.06,Débito,Andre Rodrigues,939.909.169-98,Roberto Dias
+52,02-12-2023,CAMISETA BASICA M,1,49.21,pix,Vanessa Moreira,473.178.108-01,
+36,03/02/23,Calça Jeans 42,1,118.08,PIX,Leandro Borges,262.045.053-31,
+376,"April 08, 2023",Short jeans 40,3,81.67,Cartao de Credito,Ricardo Lopes,326.773.602-60,Ana Lima
+477,26/04/23,Camiseta Básica M,1,46.0,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+182,08/10/2023,Short jeans 40,2,0,cartão de crédito,Mariana Barbosa,896.383.465-78,Roberto Dias
+401,18/07/23,Sandália rasteira 36,1,71.76,DINHEIRO,Viviane Ramos,680.112.805-98,Carlos Souza
+352,21-04-2023,meia kit c/ 3,1,23.96,Débito,Carolina Fernandes,449.353.487-40,Fernanda Costa
+95,2023-05-29,Boné aba curva,3,41.37,cartao de debito,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+330,"July 12, 2023",sandalia rasteira 36,1,44.95,PIX,Beatriz Cunha,208.121.913-61,Roberto Dias
+70,26/02/23,JAQUETA COURO M,1,292.27,cartão de crédito,PRISCILA ANDRADE,586.923.226-02,Ana Lima
+328,2023-09-04,Meia Kit c/3,2,23.28,Dinheiro,Denise Rezende,163.287.083-17,Roberto Dias
+327,2023-10-04,meia kit c/ 3,1,21.38,PIX,Maria Silva,104.332.181-96,Roberto Dias
+421,23/08/23,BLUSA DE FRIO G,3,96.68,Pix,ROSANE LEITE,716.572.628-49,Roberto Dias
+2,11/02/2023,Sandália Rasteira 36,1,68.84,pix,Carlos Souza,103.413.164-75,
+23,01-06-2023,Tênis Casual 38,1,152.89,Dinheiro,LIDIANE PACHECO,036.690.967-05,Carlos Souza
+404,2023-05-22,Meia Kit c/3,2,,PIX,Rafael Mendes,764.835.030-56,Fernanda Costa
+194,19-09-2023,bone aba curva,1,48.9,Cartão de Débito,Beatriz Cunha,208.121.913-61,Ana Lima
+321,01/08/2023,Meia Kit c/3,1,25.32,Cartão de Crédito,Natalia Brito,615.951.484-65,Carlos Souza
+312,"August 25, 2023",blusa de frio G,2,"99,9",Dinheiro,Mauricio Sampaio,773.872.148-95,Carlos Souza
+500,22/04/2023,Calça Jeans 42,1,128.69,pix,Mauricio Sampaio,773.872.148-95,
+17,"May 06, 2023",Short Jeans 40,1,77.82,CARTÃO CRÉDITO,Robson Salles,362.316.658-76,Roberto Dias
+368,2023-08-26,Jaqueta Couro M,1,259.2,Pix,Lucia Ferreira,781.618.495-93,Carlos Souza
+135,23-12-2023,Sandália Rasteira 36,1,68.48,Dinheiro,Beatriz Cunha,208.121.913-61,Fernanda Costa
+223,2023-12-29,Boné aba curva,1,35.31,Dinheiro,Ivone Guedes,413.435.240-82,Fernanda Costa
+356,27/11/2023,tênis casual 38,2,150.32,Cartao de Credito,Viviane Ramos,680.112.805-98,Carlos Souza
+422,2023-08-15,CAMISETA BASICA M,2,50.65,Cartão de Crédito,Deusdete Matos,964.990.913-34,Carlos Souza
+107,20/12/23,Jaqueta Couro M,2,262.23,Cartão de Débito,Valdinei Faria,905.865.185-06,
+74,2023-06-20,Calça Jeans 42,2,135.9,Pix,Carlos Souza,103.413.164-75,Carlos Souza
+268,"January 21, 2023",short jeans 40,1,,cartão de crédito,Rosane Leite,716.572.628-49,Ana Lima
+310,14/11/23,CAMISETA BASICA M,1,48.06,dinheiro,Simone Castro,647.468.723-43,Fernanda Costa
+265,05-12-2023,Camiseta básica M,1,43.94,cartao de debito,Ana Oliveira,957.015.430-39,Ana Lima
+218,"October 22, 2023",Meia Kit C/3,1,25.18,cartao de debito,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+394,12/02/23,BLUSA DE FRIO G,1,98.86,Débito,Terezinha Barros,777.520.471-16,Carlos Souza
+374,27/11/23,Calça Jeans 42,1,130.9,Débito,JAIRO CAVALCANTE,436.349.578-85,Fernanda Costa
+315,"March 10, 2023",blusa de frio G,2,101.03,pix,Jair Andrade,877.694.531-47,Carlos Souza
+1,07/06/23,Sandália Rasteira 36,1,63.22,PIX,Waldemar Faustino,400.842.710-94,Roberto Dias
+385,25/07/23,Short Jeans 40,3,76.71,dinheiro,Leonardo Azevedo,648.236.629-94,Fernanda Costa
+111,02/09/2023,sandalia rasteira 36,1,48.92,CARTÃO CRÉDITO,Marcos Teixeira,098.050.097-88,
+289,05-08-2023,Meia Kit c/3,1,22.16,Débito,JOÃO SANTOS,001.338.908-38,Carlos Souza
+316,2023-03-13,blusa de frio G,4,94.58,dinheiro,Aline Nascimento,311.656.670-10,Ana Lima
+307,2023-10-03,short jeans 40,1,78.24,PIX,Camila Pereira,287.101.226-91,Carlos Souza
+180,08/02/2023,sandalia rasteira 36,3,47.29,pix,Diego Martins,669.784.801-84,Ana Lima
+343,16-12-2023,bone aba curva,3,44.44,CARTÃO CRÉDITO,Simone Castro,647.468.723-43,
+370,"April 12, 2023",blusa de frio G,2,91.37,Cartão de Débito,Isabela Gomes,514.627.048-28,Ana Lima
+7,28/05/2023,blusa de frio G,1,95.92,PIX,Valdinei Faria,905.865.185-06,Roberto Dias
+339,"March 31, 2023",Blusa de Frio G,1,100.96,Dinheiro,JAIR ANDRADE,877.694.531-47,
+198,2023-09-12,blusa de frio G,1,86.97,pix,Dilma Couto,379.965.075-27,Ana Lima
+449,02/11/23,blusa de frio G,4,"99,9",cartão de crédito,Alexandre Pires,693.406.088-35,
+219,15-01-2023,Jaqueta Couro M,1,307.79,Pix,Mauricio Sampaio,773.872.148-95,
+367,06-03-2023,Jaqueta Couro M,1,273.6,Débito,Ailton Bastos,699.016.272-04,Roberto Dias
+204,01-01-2023,JAQUETA COURO M,1,284.43,Cartão de Crédito,Denise Rezende,163.287.083-17,Carlos Souza
+185,02/12/2023,CAMISETA BASICA M,1,46.86,Cartão de Crédito,ISABELA GOMES,966.319.314-91,Fernanda Costa
+299,17/07/23,Vestido floral P,1,85.66,PIX,MIRIAM DEUS,685.574.443-13,Roberto Dias
+262,03/02/23,meia kit c/ 3,1,25.59,Cartao de Credito,Carlos Souza,103.413.164-75,Fernanda Costa
+359,07/05/23,jaqueta couro m,1,257.02,dinheiro,PRISCILA ANDRADE,586.923.226-02,Fernanda Costa
+252,18/03/23,Short Jeans 40,2,78.79,cartao de debito,Renata Monteiro,251.354.278-49,Ana Lima
+478,"January 29, 2023",sandalia rasteira 36,2,45.31,CARTÃO CRÉDITO,Diego Martins,669.784.801-84,Carlos Souza
+202,17/06/23,CAMISETA BASICA M,2,44.84,dinheiro,Edmundo Avelar,518.233.749-89,
+263,"July 03, 2023",JAQUETA COURO M,1,313.99,CARTÃO CRÉDITO,Simone Castro,647.468.723-43,Ana Lima
+435,30/12/2023,camiseta básica m,1,44.57,Dinheiro,Viviane Ramos,680.112.805-98,Carlos Souza
+303,"July 28, 2023",tênis casual 38,2,156.43,pix,Elisa Coutinho,653.755.646-41,Ana Lima
+276,23/09/2023,Short Jeans 40,2,81.12,pix,Vilma Freire,808.412.411-82,Ana Lima
+43,15-03-2023,Short jeans 40,1,75.16,Cartao de Credito,SUELI QUEIROZ,351.161.559-40,Fernanda Costa
+402,18/09/2023,Jaqueta Couro M,1,312.9,PIX,Isabela Gomes,514.627.048-28,Ana Lima
+101,"March 18, 2023",Sandália Rasteira 36,1,71.19,pix,Dilma Couto,379.965.075-27,Fernanda Costa
+143,14-11-2023,Short Jeans 40,1,76.94,cartao de debito,Carolina Fernandes,449.353.487-40,Carlos Souza
+114,"May 20, 2023",Calça Jeans  42,2,,dinheiro,Patricia Nunes,957.015.430-39,Fernanda Costa
+448,"August 11, 2023",Short jeans 40,1,77.09,Pix,Leonardo Azevedo,648.236.629-94,Ana Lima
+100,07/07/23,JAQUETA COURO M,1,274.89,Pix,Larissa Campos,301.031.051-83,
+29,16/08/23,blusa de frio G,2,104.45,dinheiro,RENATA MONTEIRO,251.354.278-49,Ana Lima
+392,06/01/2023,sandalia rasteira 36,1,47.43,CARTÃO CRÉDITO,DENISE REZENDE,136.783.777-01,Carlos Souza
+48,23-07-2023,Meia Kit C/3,1,23.18,Cartão de Débito,Carlos Souza,103.413.164-75,Roberto Dias
+183,2023-03-05,bone aba curva,4,49.29,Cartao de Credito,ALINE NASCIMENTO,311.656.670-10,Fernanda Costa
+229,17/02/2023,Tênis Casual 38,1,155.34,DINHEIRO,Deusdete Matos,964.990.913-34,Carlos Souza
+113,05/01/23,vestido floral p,1,85.84,Cartao de Credito,Waldemar Faustino,400.842.710-94,
+206,23-11-2023,meia kit c/ 3,2,22.62,dinheiro,WANDERSON REIS,400.842.710-94,Roberto Dias
+495,20/11/23,Tenis Casual 38,2,-49.9,Cartao de Credito,VIVIANE RAMOS,680.112.805-98,Ana Lima
+158,14/01/23,Boné aba curva,2,"39,9",Débito,Nadia Chaves,092.327.193-74,Roberto Dias
+476,"May 17, 2023",Calça Jeans 42,3,121.74,cartao de debito,Natalia Brito,615.951.484-65,Ana Lima
+283,21/07/2023,Calça Jeans  42,2,0,Cartão de Débito,Clodoaldo Braga,708.053.100-33,
+72,02/08/23,calça jeans 42,1,123.6,Cartão de Crédito,Camila Pereira,287.101.226-91,Roberto Dias
+499,16/09/23,camiseta básica m,2,44.82,PIX,Everaldo Medeiros,466.889.373-46,Ana Lima
+246,22-11-2023,bone aba curva,1,47.15,PIX,Thiago Carvalho,117.182.278-24,Fernanda Costa
+426,22/12/2023,Meia Kit C/3,1,-24.9,pix,Leandro Borges,262.045.053-31,
+174,"September 19, 2023",Camiseta básica M,1,42.83,cartao de debito,Terezinha Barros,777.520.471-16,Roberto Dias
+227,31/07/23,BLUSA DE FRIO G,2,100.06,CARTÃO CRÉDITO,Denise Rezende,163.287.083-17,Carlos Souza
+290,"December 16, 2023",Vestido floral P,2,0,Pix,Larissa Campos,301.031.051-83,Ana Lima
+340,09/05/2023,Jaqueta Couro M,2,282.44,Pix,Ailton Bastos,699.016.272-04,
+294,13/07/2023,camiseta básica m,2,,Pix,Everaldo Medeiros,466.889.373-46,Carlos Souza
+149,23/07/23,JAQUETA COURO M,1,277.43,Cartao de Credito,Alexandre Pires,680.112.805-98,
+412,31/07/23,Vestido Floral P,3,92.01,Pix,MARCOS TEIXEIRA,098.050.097-88,Fernanda Costa
+152,12-10-2023,Short Jeans 40,1,80.45,DINHEIRO,ROBSON SALLES,362.316.658-76,Ana Lima
+170,02/03/23,Vestido Floral P,1,86.75,DINHEIRO,Fabio Melo,458.685.014-29,Carlos Souza
+260,"November 11, 2023",Blusa de Frio G,1,92.37,Cartão de Crédito,Everaldo Medeiros,466.889.373-46,Fernanda Costa
+280,"September 18, 2023",short jeans 40,2,81.41,dinheiro,Beatriz Cunha,208.121.913-61,
+3,11/12/23,meia kit c/ 3,1,22.55,pix,Viviane Ramos,680.112.805-98,Roberto Dias
+80,08/02/2023,Sandália rasteira 36,4,67.91,Débito,Sueli Queiroz,714.345.581-22,Roberto Dias
+164,09/06/2023,Tênis Casual 38,1,150.38,cartão de crédito,Clodoaldo Braga,708.053.100-33,Fernanda Costa
+384,"August 01, 2023",jaqueta couro m,2,261.16,Débito,Felipe Ribeiro,148.932.528-80,Carlos Souza
+75,02/02/23,Jaqueta Couro M,1,0,Dinheiro,CLODOALDO BRAGA,098.050.097-88,
+256,"June 07, 2023",Blusa de Frio G,1,-99.9,Cartão de Débito,Natalia Brito,615.951.484-65,
+208,"July 28, 2023",Camiseta básica M,1,43.32,Débito,Jairo Cavalcante,436.349.578-85,Fernanda Costa
+13,2023-03-06,Short Jeans 40,2,"79,9",Pix,GLÓRIA SIQUEIRA,869.993.867-74,Ana Lima
+453,"July 03, 2023",Camiseta básica M,1,46.24,DINHEIRO,Priscila Andrade,586.923.226-02,Roberto Dias
+155,12-11-2023,Calça Jeans  42,1,131.3,dinheiro,Clodoaldo Braga,708.053.100-33,Roberto Dias
+274,14/07/23,JAQUETA COURO M,2,283.89,Pix,Mauricio Sampaio,773.872.148-95,Ana Lima
+84,"February 07, 2023",blusa de frio G,2,91.3,dinheiro,Vanessa Moreira,473.178.108-01,Ana Lima
+484,"November 01, 2023",Meia Kit c/3,2,24.54,dinheiro,Hilton Bessa,740.344.713-49,Ana Lima
+230,21/02/2023,Tênis Casual 38,3,157.04,Dinheiro,Beatriz Cunha,208.121.913-61,Carlos Souza
+375,09/04/23,Camiseta Básica M,3,46.78,Dinheiro,DENISE REZENDE,163.287.083-17,
+372,2023-01-08,calça jeans 42,4,128.36,cartao de debito,Leandro Borges,262.045.053-31,
+459,"September 22, 2023",CAMISETA BASICA M,1,52.0,cartão de crédito,OSMAR PINHEIRO,354.549.480-83,
+353,11-01-2023,Blusa de Frio G,1,95.67,Débito,Thiago Carvalho,117.182.278-24,Fernanda Costa
+389,12-03-2023,Vestido floral P,1,86.65,CARTÃO CRÉDITO,Elaine Tavares,134.332.003-79,Ana Lima
+18,15/03/2023,Vestido Floral P,3,81.59,PIX,Nadia Chaves,092.327.193-74,Carlos Souza
+491,23/03/2023,Sandália rasteira 36,1,70.02,Cartão de Crédito,Carlos Souza,134.332.003-79,Ana Lima
+106,2023-10-07,Tenis Casual 38,1,52.12,Dinheiro,Paulo Correia,164.005.242-78,Fernanda Costa
+95,2023-05-29,Boné aba curva,3,41.37,cartao de debito,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+190,16/04/2023,Short Jeans 40,1,83.17,Pix,Conceicao Matos,123.281.206-79,Roberto Dias
+408,13/10/23,short jeans 40,1,83.46,DINHEIRO,Thiago Carvalho,117.182.278-24,Fernanda Costa
+226,2023-08-17,Camiseta Básica M,2,42.9,Pix,Paulo Correia,164.005.242-78,Roberto Dias
+65,25-05-2023,JAQUETA COURO M,1,307.28,Cartão de Crédito,Denise Rezende,163.287.083-17,Roberto Dias
+295,20/03/2023,bone aba curva,2,50.3,PIX,Alexandre Pires,693.406.088-35,Fernanda Costa
+163,20-12-2023,Short Jeans 40,1,83.28,cartão de crédito,EDUARDO PINTO,473.829.973-76,Carlos Souza
+22,14/12/2023,JAQUETA COURO M,1,289.68,cartao de debito,Lucas Freitas,713.315.098-39,Carlos Souza
+60,"July 12, 2023",sandalia rasteira 36,2,47.67,Cartão de Débito,Natalia Brito,615.951.484-65,Roberto Dias
+122,2023-09-20,Blusa de Frio G,1,,Dinheiro,Clodoaldo Braga,708.053.100-33,Ana Lima
+366,25-12-2023,Sandália Rasteira 36,1,62.01,cartão de crédito,VALDINEI FARIA,905.865.185-06,Fernanda Costa
+79,17/08/2023,Sandália Rasteira 36,2,68.01,DINHEIRO,Everaldo Medeiros,466.889.373-46,Fernanda Costa
+342,2023-05-28,CAMISETA BASICA M,3,45.94,pix,Sueli Queiroz,714.345.581-22,Fernanda Costa
+440,20-05-2023,Calça Jeans 42,2,115.78,dinheiro,ALINE NASCIMENTO,311.656.670-10,
+496,"August 23, 2023",Blusa de Frio G,1,103.95,Cartao de Credito,Gustavo Araujo,651.333.872-62,
+94,08/03/2023,JAQUETA COURO M,1,281.88,Cartao de Credito,SERGIO MACEDO,176.936.763-20,Ana Lima
+147,28/10/23,Calça Jeans 42,1,128.0,PIX,Wanderson Reis,727.743.487-34,Fernanda Costa
+275,14-08-2023,camiseta básica m,2,48.17,pix,Juliana Rocha,413.953.767-24,Carlos Souza
+365,29-11-2023,jaqueta couro m,1,293.12,pix,Jairo Cavalcante,436.349.578-85,Roberto Dias
+325,"November 02, 2023",Short jeans 40,1,75.97,DINHEIRO,Juliana Rocha,413.953.767-24,Carlos Souza
+500,22/04/2023,Calça Jeans 42,1,128.69,pix,Mauricio Sampaio,773.872.148-95,
+86,02/05/23,Meia Kit c/3,4,25.57,cartão de crédito,Rosane Leite,518.233.749-89,Fernanda Costa
+234,2023-04-26,meia kit c/ 3,1,25.19,DINHEIRO,Viviane Ramos,680.112.805-98,
+146,2023-09-01,Vestido floral P,1,79.64,dinheiro,Carlos Souza,103.413.164-75,Ana Lima
+469,20/07/2023,blusa de frio G,1,88.51,PIX,Renata Monteiro,251.354.278-49,Ana Lima
+424,11/12/2023,vestido floral p,1,89.89,dinheiro,Hilton Bessa,740.344.713-49,Ana Lima
+25,07/07/2023,CAMISETA BASICA M,1,45.03,DINHEIRO,WANDERSON REIS,436.349.578-85,Fernanda Costa
+431,22/07/23,jaqueta couro m,1,275.18,Cartão de Débito,WALDEMAR FAUSTINO,400.842.710-94,Roberto Dias
+468,"September 30, 2023",sandalia rasteira 36,3,45.08,cartão de crédito,Mauricio Sampaio,773.872.148-95,Fernanda Costa
+248,"December 13, 2023",Calça Jeans  42,4,122.73,Cartao de Credito,Viviane Ramos,680.112.805-98,Carlos Souza
+117,21/10/2023,Camiseta Básica M,1,46.46,PIX,Paulo Correia,164.005.242-78,Fernanda Costa
+134,2023-09-03,Calça Jeans  42,1,129.82,Débito,Natalia Brito,615.951.484-65,Roberto Dias
+88,2023-03-07,Boné Aba Curva,1,34.36,cartão de crédito,Edmundo Avelar,518.233.749-89,
+157,"October 22, 2023",Meia Kit c/3,1,22.16,PIX,Daniel Vieira,808.412.411-82,Carlos Souza
+413,"May 07, 2023",Blusa de Frio G,2,103.68,pix,Sueli Queiroz,714.345.581-22,
+291,12/12/23,jaqueta couro m,1,302.83,Dinheiro,Ivone Guedes,413.435.240-82,Ana Lima
+156,09/08/23,meia kit c/ 3,1,25.97,dinheiro,Deusdete Matos,964.990.913-34,Fernanda Costa
+436,11/07/23,Meia Kit c/3,1,23.66,CARTÃO CRÉDITO,Lucia Ferreira,781.618.495-93,Fernanda Costa
+409,"November 23, 2023",bone aba curva,1,48.57,pix,Leandro Borges,262.045.053-31,
+281,"November 04, 2023",BLUSA DE FRIO G,2,91.74,Cartão de Débito,ELAINE TAVARES,134.332.003-79,Fernanda Costa
+272,04/04/2023,Camiseta básica M,2,46.62,Débito,Sueli Queiroz,714.345.581-22,Carlos Souza
+454,2023-04-19,Sandália rasteira 36,3,61.57,Cartão de Débito,Vanessa Moreira,473.178.108-01,Carlos Souza
+458,27/12/23,Tenis Casual 38,2,50.99,Débito,Patricia Nunes,957.015.430-39,Fernanda Costa
+37,20-02-2023,Meia Kit c/3,2,23.41,CARTÃO CRÉDITO,Patricia Nunes,957.015.430-39,Roberto Dias
+457,23/10/23,BLUSA DE FRIO G,1,0,Cartão de Crédito,Renata Monteiro,251.354.278-49,
+168,"July 07, 2023",Tênis Casual 38,1,155.01,pix,Marcos Teixeira,098.050.097-88,Roberto Dias
+399,19/06/23,Calça Jeans  42,1,136.2,cartao de debito,Jairo Cavalcante,436.349.578-85,Ana Lima
+336,2023-05-27,Calça Jeans  42,2,119.76,Cartão de Débito,Lucia Ferreira,781.618.495-93,Ana Lima
+176,2023-08-13,Meia Kit C/3,1,24.7,Cartão de Débito,Thiago Carvalho,117.182.278-24,Roberto Dias
+297,20/04/2023,Sandália rasteira 36,2,67.26,Débito,Natalia Brito,615.951.484-65,Ana Lima
+211,24/04/2023,Calça Jeans 42,2,117.14,cartão de crédito,Marcos Teixeira,098.050.097-88,Ana Lima
+486,23/12/2023,Tenis Casual 38,1,48.72,DINHEIRO,Edmundo Avelar,518.233.749-89,Carlos Souza
+407,12/03/2023,vestido floral p,2,86.57,Cartao de Credito,Neuza Lago,136.783.777-01,Fernanda Costa
+420,07/06/2023,vestido floral p,4,,Débito,Elisa Coutinho,653.755.646-41,Fernanda Costa
+119,"August 30, 2023",JAQUETA COURO M,2,302.14,PIX,Jairo Cavalcante,436.349.578-85,Roberto Dias
+418,05/03/23,CAMISETA BASICA M,2,52.15,pix,Patricia Nunes,957.015.430-39,Carlos Souza
+461,2023-05-31,vestido floral p,1,"89,9",Pix,Gustavo Araujo,964.990.913-34,
+322,"March 07, 2023",Short jeans 40,1,-79.9,Dinheiro,Gloria Siqueira,869.993.867-74,Carlos Souza
+446,28-06-2023,Sandália Rasteira 36,2,63.97,Cartão de Débito,TEREZINHA BARROS,777.520.471-16,Ana Lima
+11,"August 17, 2023",short jeans 40,1,70.93,cartao de debito,Cristiane Assis,966.319.314-91,Carlos Souza
+331,07/07/23,Sandália Rasteira 36,1,61.91,PIX,Leandro Borges,262.045.053-31,
+480,13/03/2023,camiseta básica m,2,47.4,Débito,Simone Castro,869.993.867-74,Roberto Dias
+228,"February 07, 2023",Meia Kit c/3,1,23.03,cartao de debito,Lucia Ferreira,781.618.495-93,Ana Lima
+216,26/06/2023,bone aba curva,1,51.35,Débito,Waldemar Faustino,400.842.710-94,Fernanda Costa
+178,2023-10-21,Vestido floral P,4,92.93,Dinheiro,Dilma Couto,379.965.075-27,Carlos Souza
+243,"August 15, 2023",JAQUETA COURO M,1,304.34,cartao de debito,Alexandre Pires,693.406.088-35,Roberto Dias
+68,25/04/23,Camiseta Básica M,2,45.28,Pix,Cristina Duarte,401.965.569-81,Carlos Souza
+278,17-09-2023,Vestido Floral P,1,84.47,Pix,Edmundo Avelar,518.233.749-89,Roberto Dias
+350,2023-08-10,Meia Kit C/3,1,,DINHEIRO,Denise Rezende,163.287.083-17,Roberto Dias
+214,2023-11-11,Sandália Rasteira 36,1,"69,9",Dinheiro,Hilton Bessa,740.344.713-49,Roberto Dias
+151,"July 04, 2023",Camiseta básica M,1,"49,9",DINHEIRO,Diego Martins,458.685.014-29,Roberto Dias
+12,16/07/2023,Vestido Floral P,1,91.17,Cartao de Credito,Robson Salles,529.912.419-04,Roberto Dias
+322,"March 07, 2023",Short jeans 40,1,-79.9,Dinheiro,Gloria Siqueira,869.993.867-74,Carlos Souza
+267,2023-05-25,Camiseta básica M,2,45.99,DINHEIRO,Felipe Ribeiro,148.932.528-80,Fernanda Costa
+488,"March 15, 2023",sandalia rasteira 36,2,0,Cartao de Credito,Viviane Ramos,680.112.805-98,Roberto Dias
+78,06-08-2023,CAMISETA BASICA M,1,"49,9",Cartão de Débito,Rosangela Vasconcelos,706.562.729-80,Fernanda Costa
+255,2023-08-30,Calça Jeans 42,3,127.42,CARTÃO CRÉDITO,Paulo Correia,164.005.242-78,Fernanda Costa
+76,06/10/23,BLUSA DE FRIO G,1,90.37,Débito,Carolina Fernandes,647.468.723-43,Fernanda Costa
+357,"March 06, 2023",jaqueta couro m,1,261.09,cartão de crédito,Renata Monteiro,251.354.278-49,Roberto Dias
+58,27-01-2023,Meia Kit c/3,1,25.97,pix,Natalia Brito,514.627.048-28,Carlos Souza
+463,12-11-2023,Vestido floral P,1,87.06,Cartao de Credito,LEANDRO BORGES,262.045.053-31,Roberto Dias
+85,2023-10-05,vestido floral p,2,85.56,cartão de crédito,Amanda Cavalcante,754.330.365-41,Carlos Souza
+56,19/03/2023,Boné aba curva,4,"39,9",Cartão de Débito,Rafael Mendes,764.835.030-56,Carlos Souza
+40,07/12/23,Boné aba curva,2,38.53,CARTÃO CRÉDITO,Everaldo Medeiros,466.889.373-46,Carlos Souza
+148,"March 13, 2023",Meia Kit c/3,1,22.86,Débito,Camila Pereira,287.101.226-91,
+92,13-11-2023,sandalia rasteira 36,4,50.45,Cartão de Débito,Pedro Costa,351.161.559-40,Roberto Dias
+201,11-12-2023,Boné Aba Curva,4,"39,9",Pix,Fernanda Lima,255.341.928-32,Fernanda Costa
+42,2023-12-12,sandalia rasteira 36,1,51.61,dinheiro,IVONE GUEDES,680.112.805-98,Ana Lima
+45,05/12/23,Blusa de Frio G,1,87.13,Cartão de Débito,Valdinei Faria,905.865.185-06,
+235,11/10/2023,camiseta básica m,3,51.21,Pix,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+97,2023-06-30,camiseta básica m,2,42.5,cartão de crédito,Fernanda Lima,255.341.928-32,Roberto Dias
+198,2023-09-12,blusa de frio G,1,86.97,pix,Dilma Couto,379.965.075-27,Ana Lima
+415,18/07/2023,Short Jeans 40,2,70.58,Dinheiro,Fernanda Lima,255.341.928-32,
+355,"August 04, 2023",sandalia rasteira 36,1,45.58,Dinheiro,Hilton Bessa,740.344.713-49,Fernanda Costa
+345,10/07/23,Sandália Rasteira 36,3,73.18,PIX,Cristina Duarte,401.965.569-81,Fernanda Costa
+410,29-04-2023,Sandália Rasteira 36,1,61.29,pix,HENRIQUE DIAS,107.991.183-84,Roberto Dias
+189,11-06-2023,Meia Kit c/3,2,22.58,cartao de debito,Lucas Freitas,713.315.098-39,Ana Lima
+318,29/11/23,Tênis Casual 38,2,153.32,Cartao de Credito,Felipe Ribeiro,148.932.528-80,Roberto Dias
+458,27/12/23,Tenis Casual 38,2,50.99,Débito,Patricia Nunes,957.015.430-39,Fernanda Costa
+150,13-02-2023,JAQUETA COURO M,1,301.93,Cartao de Credito,Vilma Freire,361.832.421-02,Roberto Dias
+450,17/06/23,BLUSA DE FRIO G,2,,Cartao de Credito,Rafael Mendes,713.315.098-39,Carlos Souza
+423,2023-01-29,sandalia rasteira 36,1,42.9,DINHEIRO,Regiane Fonseca,781.618.495-93,Carlos Souza
+348,08-10-2023,Vestido floral P,1,83.95,Débito,Renata Monteiro,251.354.278-49,Fernanda Costa
+273,"March 09, 2023",Jaqueta Couro M,3,289.04,Pix,Rafael Mendes,764.835.030-56,Carlos Souza
+490,2023-10-04,Short Jeans 40,1,70.3,Pix,Tatiane Cardoso,543.534.624-75,Roberto Dias
+241,22-05-2023,tênis casual 38,1,158.0,Cartão de Crédito,Larissa Campos,301.031.051-83,Roberto Dias
+63,03-04-2023,meia kit c/ 3,1,22.35,Pix,Vilma Freire,361.832.421-02,
+425,03/06/2023,Tênis Casual 38,2,"159,9",Pix,Sergio Macedo,176.936.763-20,Carlos Souza
+270,26/08/2023,camiseta básica m,1,46.67,cartão de crédito,Isabela Gomes,514.627.048-28,Ana Lima
+257,2023-11-14,CAMISETA BASICA M,1,42.95,Cartao de Credito,Eliandro Mesquita,529.912.419-04,Carlos Souza
+249,05-01-2023,Vestido Floral P,2,92.52,dinheiro,Carolina Fernandes,449.353.487-40,Roberto Dias
+232,13-04-2023,Camiseta básica M,1,50.25,Pix,Pedro Costa,351.161.559-40,Roberto Dias
+177,12-11-2023,Calça Jeans 42,1,114.79,cartao de debito,Beatriz Cunha,208.121.913-61,Fernanda Costa
+191,2023-05-04,BLUSA DE FRIO G,1,96.27,dinheiro,Deusdete Matos,001.338.908-38,
+33,"June 15, 2023",Camiseta Básica M,1,43.05,Pix,VANESSA MOREIRA,473.178.108-01,Fernanda Costa
+28,2023-08-03,Short jeans 40,2,72.39,cartao de debito,Eduardo Pinto,473.829.973-76,Fernanda Costa
+142,2023-05-27,Camiseta Básica M,3,43.38,Cartao de Credito,Jair Andrade,877.694.531-47,Carlos Souza
+217,2023-08-30,Short Jeans 40,1,72.17,Débito,Mauricio Sampaio,773.872.148-95,Ana Lima
+349,"July 25, 2023",Vestido floral P,1,78.21,Dinheiro,ELISA COUTINHO,653.755.646-41,Carlos Souza
+258,25-06-2023,Blusa de Frio G,3,86.53,dinheiro,Waldemar Faustino,400.842.710-94,Carlos Souza
+137,2023-10-16,Meia Kit C/3,1,24.75,Dinheiro,TATIANE CARDOSO,543.534.624-75,Carlos Souza
+460,09-06-2023,Sandália Rasteira 36,1,67.44,dinheiro,Fernanda Lima,255.341.928-32,Roberto Dias
+181,23-08-2023,sandalia rasteira 36,4,47.35,dinheiro,Mauricio Sampaio,773.872.148-95,Fernanda Costa
+165,2023-12-30,Camiseta básica M,1,44.85,Cartao de Credito,Ana Oliveira,637.940.265-42,
+116,"March 13, 2023",BLUSA DE FRIO G,1,90.25,dinheiro,ALEXANDRE PIRES,693.406.088-35,Fernanda Costa
+390,05/09/23,calça jeans 42,3,118.22,cartao de debito,Valdinei Faria,905.865.185-06,
+382,2023-07-04,short jeans 40,2,79.65,Dinheiro,Lidiane Pacheco,036.690.967-05,Ana Lima
+479,2023-01-21,Boné aba curva,1,37.8,Cartão de Débito,Glaucia Nogueira,278.895.798-68,Roberto Dias
+108,22/07/23,meia kit c/ 3,1,22.89,Pix,Regiane Fonseca,680.443.699-57,Fernanda Costa
+360,28/08/23,Meia Kit C/3,3,24.11,Pix,Miriam Deus,685.574.443-13,
+447,30/09/23,blusa de frio G,1,86.23,CARTÃO CRÉDITO,Sueli Queiroz,714.345.581-22,
+298,09/12/2023,Tenis Casual 38,1,0,dinheiro,Elisa Coutinho,653.755.646-41,Roberto Dias
+386,21/11/23,Blusa de Frio G,2,89.99,Pix,Alexandre Pires,693.406.088-35,Roberto Dias
+378,"November 14, 2023",Vestido Floral P,1,85.36,PIX,Alexandre Pires,693.406.088-35,Carlos Souza
+245,09/04/23,Boné Aba Curva,3,36.1,Pix,Marcos Teixeira,098.050.097-88,
+333,20/04/2023,Short Jeans 40,2,-79.9,DINHEIRO,Sueli Queiroz,714.345.581-22,Ana Lima
+59,"February 11, 2023",Short jeans 40,2,79.24,cartão de crédito,Larissa Campos,301.031.051-83,Fernanda Costa
+441,19/05/2023,Calça Jeans 42,3,111.73,Cartão de Crédito,Priscila Andrade,586.923.226-02,Roberto Dias
+123,24-10-2023,CAMISETA BASICA M,1,52.26,Pix,Carlos Souza,103.413.164-75,Ana Lima
+172,11/03/2023,Calça Jeans  42,2,132.24,Pix,Glaucia Nogueira,278.895.798-68,Carlos Souza
+71,"November 02, 2023",short jeans 40,1,,dinheiro,Ana Oliveira,637.940.265-42,Carlos Souza
+105,01-02-2023,Jaqueta Couro M,1,312.3,Pix,Lucas Freitas,713.315.098-39,
+397,12/11/2023,meia kit c/ 3,1,21.94,cartao de debito,Ailton Bastos,699.016.272-04,Ana Lima
+364,25-03-2023,Jaqueta Couro M,2,302.9,pix,Glaucia Nogueira,278.895.798-68,Fernanda Costa
+288,15-09-2023,short jeans 40,1,79.26,Cartão de Débito,Alexandre Pires,693.406.088-35,
+35,2023-09-03,Meia Kit C/3,2,25.64,dinheiro,SUELI QUEIROZ,714.345.581-22,
+361,26-09-2023,sandalia rasteira 36,2,46.07,Dinheiro,Jairo Cavalcante,436.349.578-85,Carlos Souza
+287,2023-12-26,short jeans 40,1,72.56,dinheiro,Cristina Duarte,401.965.569-81,Carlos Souza
+332,10/05/2023,vestido floral p,3,89.86,Pix,Terezinha Barros,777.520.471-16,Carlos Souza
+90,"May 21, 2023",Calça Jeans 42,2,125.5,Cartao de Credito,AMANDA CAVALCANTE,754.330.365-41,
+498,07/05/23,Tênis Casual 38,1,136.08,Cartão de Crédito,Rosangela Vasconcelos,706.562.729-80,Ana Lima
+233,16-02-2023,sandalia rasteira 36,1,0,Pix,Miriam Deus,685.574.443-13,Roberto Dias
+21,07-11-2023,jaqueta couro m,1,268.05,CARTÃO CRÉDITO,Rosane Leite,716.572.628-49,
+317,07/09/2023,Vestido Floral P,1,83.39,Pix,Juliana Rocha,413.953.767-24,Ana Lima
+239,"September 25, 2023",Meia Kit c/3,1,25.97,cartão de crédito,LIDIANE PACHECO,036.690.967-05,Ana Lima
+188,12/11/23,Sandália rasteira 36,1,67.66,DINHEIRO,AILTON BASTOS,699.016.272-04,Fernanda Costa
+197,18/05/2023,jaqueta couro m,2,258.75,cartao de debito,THIAGO CARVALHO,117.182.278-24,
+190,16/04/2023,Short Jeans 40,1,83.17,Pix,Conceicao Matos,123.281.206-79,Roberto Dias
+27,"March 01, 2023",Calça Jeans 42,1,113.94,Pix,Carlos Souza,103.413.164-75,Fernanda Costa
+455,06/01/23,CAMISETA BASICA M,4,43.78,Débito,Ana Oliveira,637.940.265-42,Roberto Dias
+187,10/03/23,sandalia rasteira 36,2,49.62,Cartão de Débito,LARISSA CAMPOS,400.842.710-94,Carlos Souza
+346,2023-04-24,JAQUETA COURO M,3,0,dinheiro,Terezinha Barros,777.520.471-16,Roberto Dias
+466,01/03/23,camiseta básica m,3,44.75,Cartão de Débito,Gustavo Araujo,651.333.872-62,Roberto Dias
+485,2023-10-07,Calça Jeans 42,1,113.55,Cartao de Credito,Alexandre Pires,693.406.088-35,Roberto Dias
+264,16/09/2023,calça jeans 42,3,124.31,Cartão de Crédito,Thiago Carvalho,117.182.278-24,
+57,"May 07, 2023",Jaqueta Couro M,1,278.15,Débito,Ailton Bastos,699.016.272-04,Fernanda Costa
+344,21/03/23,JAQUETA COURO M,4,255.31,PIX,FELIPE RIBEIRO,148.932.528-80,Ana Lima
+83,2023-10-15,Camiseta básica M,2,52.38,CARTÃO CRÉDITO,Paulo Correia,164.005.242-78,Ana Lima
+213,21/10/2023,Blusa de Frio G,1,90.41,Pix,Wanderson Reis,727.743.487-34,Carlos Souza
+277,26/11/2023,bone aba curva,1,45.61,dinheiro,Aline Nascimento,311.656.670-10,Fernanda Costa
+437,26/09/23,vestido floral p,3,78.8,cartao de debito,Alexandre Pires,693.406.088-35,Ana Lima
+304,24/01/23,Jaqueta Couro M,2,271.8,Pix,Bruno Alves,238.849.696-53,Roberto Dias
+34,31/10/2023,Camiseta básica M,2,47.62,Pix,Elisa Coutinho,653.755.646-41,Ana Lima
+341,2023-09-04,Camiseta básica M,1,47.57,Cartão de Crédito,Paulo Correia,543.534.624-75,Fernanda Costa
