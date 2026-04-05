@@ -1,6 +1,6 @@
 # Limpeza de Dados de Vendas — Loja de Moda
 
-<!-- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/loja-moda-limpeza-dados/blob/main/notebooks/01_limpeza_dados.ipynb) -->
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElielSf/loja-moda-limpeza-dados/blob/main/notebooks/01_limpeza_dados.ipynb)
 
 ## Sobre o projeto
 
@@ -74,8 +74,11 @@ loja-moda-limpeza-dados/
 │   ├── raw/
 │   │   └── vendas_brutas_loja_moda.csv
 │   └── processed/
+│       ├── vendas_limpas_loja_moda.csv
+│       └── vendas_limpas_loja_moda.xlsx
 │
 ├── notebooks/
+│   └── 01_limpeza_dados.ipynb
 │
 ├── reports/
 │   └── graficos/
