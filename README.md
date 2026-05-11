@@ -1,18 +1,19 @@
 # Limpeza de Dados de Vendas — Loja de Moda
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElielSf/loja-moda-limpeza-dados/blob/main/notebooks/01_limpeza_dados.ipynb)
+[![01 - Limpeza](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElielSf/loja-moda-limpeza-dados/blob/main/notebooks/01_limpeza_dados.ipynb)
+[![02 - Análise](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElielSf/loja-moda-limpeza-dados/blob/main/notebooks/02_analise_indicadores.ipynb)
 
 ## Sobre o projeto
 
 Uma loja de roupas e calçados acumulou um ano inteiro de registros de vendas em planilhas preenchidas manualmente. O resultado: **datas em formatos diferentes, produtos duplicados com grafias inconsistentes, preços inválidos e clientes cadastrados mais de uma vez**.
 
-Este projeto simula esse cenário real e entrega um pipeline completo de limpeza — transformando um arquivo bruto inutilizável em uma planilha organizada e pronta para análise.
+Este projeto simula esse cenário real e entrega um pipeline completo de limpeza e análise — transformando um arquivo bruto inutilizável em uma planilha organizada, indicadores de negócio e relatório visual pronto para uso.
 
 ---
 
-## Problema encontrado nos dados brutos
+## Problemas encontrados nos dados brutos
 
-| Problema | Descrição | Qtd. estimada |
+| Problema | Descrição | Volume estimado |
 |---|---|---|
 | Linhas duplicadas | Registros repetidos por erro de digitação | ~20 linhas |
 | Datas inconsistentes | 5 formatos diferentes (`dd/mm/yyyy`, `yyyy-mm-dd`, etc.) | Todas as linhas |
@@ -24,36 +25,40 @@ Este projeto simula esse cenário real e entrega um pipeline completo de limpeza
 
 ---
 
-## O que foi feito
+## Pipeline do projeto
 
 ```
 Dados brutos (CSV sujo)
         │
         ▼
-1. Remoção de duplicatas exatas
+[Notebook 01 — Limpeza]
+  1. Remoção de duplicatas exatas
+  2. Padronização de datas → formato único datetime
+  3. Padronização de produtos → nome canônico
+  4. Limpeza de preços → conversão, remoção de inválidos, imputação por mediana
+  5. Padronização de forma de pagamento e nome de cliente
+  6. Criação de colunas auxiliares (valor_total, mês, dia da semana)
         │
         ▼
-2. Padronização de datas → formato único datetime
+Dataset limpo (.csv + .xlsx)
         │
         ▼
-3. Padronização de produtos → mapeamento para nome canônico
+[Notebook 02 — Análise e Visualização]
+  1. Visão geral do negócio (faturamento, ticket médio, clientes)
+  2. Faturamento mensal com variação percentual
+  3. Top produtos por faturamento e participação
+  4. Ticket médio por forma de pagamento
+  5. Top 10 clientes por valor gasto
+  6. Performance por vendedor
+  7. Faturamento por dia da semana
         │
         ▼
-4. Limpeza de preços → conversão, remoção de inválidos, imputação por mediana
-        │
-        ▼
-5. Padronização de forma de pagamento e nome de cliente
-        │
-        ▼
-6. Criação de colunas auxiliares (valor_total, mês, dia da semana)
-        │
-        ▼
-Dataset limpo (.csv + .xlsx) pronto para análise
+Indicadores (.csv) + Relatório visual (gráficos)
 ```
 
 ---
 
-## Resultado
+## Resultado da limpeza
 
 | | Antes | Depois |
 |---|---|---|
@@ -65,6 +70,28 @@ Dataset limpo (.csv + .xlsx) pronto para análise
 
 ---
 
+## Relatório visual
+
+### Faturamento Mensal
+![Faturamento Mensal](reports/graficos/01_faturamento_mensal.png)
+
+### Top Produtos por Faturamento
+![Top Produtos](reports/graficos/02_top_produtos.png)
+
+### Ticket Médio por Forma de Pagamento
+![Ticket por Pagamento](reports/graficos/03_ticket_pagamento.png)
+
+### Top 10 Clientes por Valor Gasto
+![Top Clientes](reports/graficos/04_top_clientes.png)
+
+### Performance por Vendedor
+![Performance Vendedor](reports/graficos/05_performance_vendedor.png)
+
+### Faturamento por Dia da Semana
+![Vendas por Dia](reports/graficos/06_vendas_dia_semana.png)
+
+---
+
 ## Estrutura do repositório
 
 ```
@@ -72,16 +99,30 @@ loja-moda-limpeza-dados/
 │
 ├── data/
 │   ├── raw/
-│   │   └── vendas_brutas_loja_moda.csv
-│   └── processed/
-│       ├── vendas_limpas_loja_moda.csv
-│       └── vendas_limpas_loja_moda.xlsx
+│   │   └── vendas_brutas_loja_moda.csv        ← dataset sujo original
+│   ├── processed/
+│   │   ├── vendas_limpas_loja_moda.csv         ← dataset limpo
+│   │   └── vendas_limpas_loja_moda.xlsx        ← entrega ao cliente
+│   └── indicators/
+│       ├── fat_mensal.csv
+│       ├── top_produtos.csv
+│       ├── ticket_pagamento.csv
+│       ├── top_clientes.csv
+│       ├── perf_vendedor.csv
+│       └── vendas_dia.csv
 │
 ├── notebooks/
-│   └── 01_limpeza_dados.ipynb
+│   ├── 01_limpeza_dados.ipynb                  ← geração do dataset e limpeza
+│   └── 02_analise_indicadores.ipynb            ← análise, indicadores e gráficos
 │
 ├── reports/
 │   └── graficos/
+│       ├── 01_faturamento_mensal.png
+│       ├── 02_top_produtos.png
+│       ├── 03_ticket_pagamento.png
+│       ├── 04_top_clientes.png
+│       ├── 05_performance_vendedor.png
+│       └── 06_vendas_dia_semana.png
 │
 ├── .gitignore
 └── README.md
@@ -93,7 +134,10 @@ loja-moda-limpeza-dados/
 
 - Python 3.10+
 - pandas
+- numpy
 - python-dateutil
+- matplotlib
+- seaborn
 - openpyxl
 
 ---
@@ -105,13 +149,16 @@ loja-moda-limpeza-dados/
 git clone https://github.com/ElielSf/loja-moda-limpeza-dados.git
 ```
 
-2. Abra o notebook no Google Colab pelo botão acima ou localmente:
+2. Instale as dependências:
 ```bash
-pip install pandas python-dateutil openpyxl
-jupyter notebook notebooks/01_limpeza_dados.ipynb
+pip install pandas numpy python-dateutil matplotlib seaborn openpyxl
 ```
 
-3. Execute as células em sequência. O dataset limpo será salvo na pasta `data/processed/`.
+3. Execute os notebooks na ordem:
+   - `01_limpeza_dados.ipynb` → gera o dataset limpo em `data/processed/`
+   - `02_analise_indicadores.ipynb` → gera os indicadores em `data/indicators/` e os gráficos em `reports/graficos/`
+
+Ou abra direto no Google Colab pelos botões no topo deste README.
 
 ---
 
